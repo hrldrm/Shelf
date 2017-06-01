@@ -33,7 +33,6 @@
 			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
 			return true;
 		}
-
 		public function checkDuplicateEmail($Email){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -48,7 +47,6 @@
 			}
 			return false;
 		}
-
 		public function addUserReview($BookID, $UserID, $Vote){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -69,7 +67,6 @@
 				}
 			}	
 		}
-
 		public function getUserInfoFromEmail($Email){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -90,7 +87,6 @@
 			$data = array('NodeNumber' => $NodeNumber, 'UserID' => $UserID, 'FName' => $FName, 'Hash' => $Hash);
 			return $data;
 		}
-
 		public function getEmail($NodeNumber){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -106,7 +102,6 @@
 			}
 			return $Email;
 		}
-
 		public function verifyEmail($email){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -152,7 +147,6 @@
 				}
 			}
 		}
-
 		public function getUserName($UserID){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -166,7 +160,6 @@
 				}
 			}
 		}		
-
 		public function getNodeNumberUsingID($UserID){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -186,7 +179,6 @@
 			}
 			return $UserNodeNumber;
 		}
-
 		public function getUserNodeNumber($email){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -207,7 +199,6 @@
 			}
 			return $UserNodeNumber;
 		}
-
 		public function getBookID($NodeNumber, $BookID){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -225,7 +216,6 @@
 			}
 			return false;	
 		}
-
 		public function getShelfNames($NodeNumber){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -247,7 +237,6 @@
 				return $ShelfNamesArr;
 			} 	
 		}
-
 		public function getAllShelves($UserID){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -275,7 +264,6 @@
 				return $ShelfArr;
 			} 	
 		}
-
 		public function addBookAndShelf($BookID, $UserID, $ShelfName){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -290,7 +278,6 @@
 			$Shelves->appendChild($Shelf);
 			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
 		}
-
 		public function addBookToShelf($BookID, $UserID, $ShelfNumber){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -301,7 +288,6 @@
 			$Shelves->childNodes->item($ShelfNumber)->appendChild($BookIDNode);
 			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
 		}
-
 		public function getCartContent($UserID){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -319,7 +305,6 @@
 				return $CartArr;
 			} 	
 		}
-
 		public function addBookToCart($BookID, $UserID){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
@@ -330,12 +315,39 @@
 			$Cart->appendChild($BookIDNode);
 			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');	
 		}
+
+		public function deleteItemFromCart($BookID){
+			$xmlDoc = new DOMDocument();
+			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
+			$x = $xmlDoc->getElementsByTagName("User");
+			$NodeNumber = $this->getNodeNumberUsingID($this->session->userdata('UserID'));
+			$Cart = $x->item($NodeNumber)->getElementsByTagName('Cart')[0];
+			for($i = 0; $i < $Cart->childNodes->length; $i){
+				if($Cart->childNodes->item($i)->nodeName = "BookID"){
+					if($BookID == $Cart->childNodes->item($i)->nodeValue){
+						$Cart->removeChild($Cart->childNodes->item($i));
+					}
+				}
+			}
+			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
+		}
+
+		public function clearCart($UserID){
+			$xmlDoc = new DOMDocument();
+			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
+			$x = $xmlDoc->getElementsByTagName("User");
+			$NodeNumber = $this->getNodeNumberUsingID($UserID);
+			$Cart = $x->item($NodeNumber)->getElementsByTagName('Cart')[0];
+			while($Cart->childNodes->length > 0){
+				$Cart->removeChild($Cart->firstChild);
+			}
+			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
+		}
 		
 		public function decode_password($password){
 			$this->load->library('encrypt');
 			return $this->encrypt->decode($password);
 		}
-
 		public function verifyPassword($UserNumber, $password){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
