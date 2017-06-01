@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Lilita+One|Jockey+One|Roboto+Slab|Raleway');
+
+body{
+	background-color: #1B3D3D;
+}
+
+.container{
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+	background-image: url("/Shelf/assets/images/BookBackground.png");
+	background-size: auto;
+	background-repeat: repeat;
+}
+
+.contentBox{
+	margin: auto;
+	display:block;
+	padding: 5px;
+	margin-top: 10%;
+	max-width:500px;
+	max-height:500px;
+	background-color: #247A7A;
+	border: 0px;
+	border-radius: 7px;
+	box-shadow: 5px 5px 40px black;
+}
+
+.woops{
+	font-family: "Lilita One", sans-serif;
+	text-align: center;
+	color: #ffffff;
+}
+
+p{
+	font-size: 18px;
+	color: #ffffff;
+	text-align: center;
+	font-family: "Roboto Slab", sans-serif;
+}
+
+.logo{
+	position: relative;
+	margin-top: 30px;
+	margin-left: 70%; 
+    height: 40px;
+    width: 200px;
+}

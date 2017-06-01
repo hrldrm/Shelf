@@ -1,0 +1,3340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookStore xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ShelfSchema.xsd">
+	<Book Category="Sci-fi">
+		<ID>1</ID>
+		<Info>
+			<Title>Ender's Game</Title>
+			<Author>
+				<FName>Orson Scott</FName>
+				<MInit/>
+				<LName>Card</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Tor</PublicationHouse>
+				<PublishingDate>1994-07-15</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>81255</RegistrantElem>
+					<PubElem>070</PubElem>
+					<CheckDigit>2</CheckDigit>				
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>324</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Andrew "Ender" Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The result of genetic experimentation, Ender may be the military genius Earth desperately needs in a war against an alien enemy seeking to destroy all human life. The only way to find out is to throw Ender into ever harsher training, to chip away and find the diamond inside, or destroy him utterly. Ender Wiggin is six years old when it begins. He will grow up fast. But Ender is not the only result of the experiment. The war with the Buggers has been raging for a hundred years, and the quest for the perfect general has been underway almost as long. Ender's two older siblings, Peter and Valentine, are every bit as unusual as he is, but in very different ways. While Peter was too uncontrollably violent, Valentine very nearly lacks the capability for violence altogether. Neither was found suitable for the military's purpose. But they are driven by their jealousy of Ender, and by their inbred drive for power. Peter seeks to control the political process, to become a ruler. Valentine's abilities turn more toward the subtle control of the beliefs of commoner and elite alike, through powerfully convincing essays. Hiding their youth and identities behind the anonymity of the computer networks, these two begin working together to shape the destiny of Earth-an Earth that has no future at all if their brother Ender fails.
+			</Synopsis>
+		</Info>
+		<Price>297.94</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+	
+	<Book Category="Sci-fi">
+	    <ID>2</ID>
+		<Info>
+			<Title>The Hitchhiker's Guide to the Galaxy</Title>
+			<Author>
+				<FName>Douglas</FName>
+				<MInit/>
+				<LName>Adams</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Del Ray</PublicationHouse>
+				<PublishingDate>1997-06-23</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>34541</RegistrantElem>
+					<PubElem>891</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>193</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Seconds before Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor. 
+				Together, this dynamic pair began a journey through space aided by a galaxyful of fellow travelers: Zaphod Beeblebrox, the two-headed, three-armed, ex-hippie and totally out-to-lunch president of the galaxy; Trillian (formerly Tricia McMillan), Zaphod's girlfriend, whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; and Veet Voojagig, a former graduate student obsessed with the disappearance of all the ballpoint pens he's bought over the years. 
+				Where are these pens? Why are we born? Why do we die? For all the answers, stick your thumb to the stars!
+			</Synopsis>
+		</Info>
+		<Price>397.42</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+		<ID>3</ID>
+		<Info>
+			<Title>Cinder</Title>
+			<Author>
+				<FName>Marissa</FName>
+				<MInit/>
+				<LName>Meyer</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Feiwel and Friends</PublicationHouse>
+				<PublishingDate>2012-01-03</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>31264</RegistrantElem>
+					<PubElem>189</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>387</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Sixteen-year-old Cinder is considered a technological mistake by most of society and a burden by her stepmother. Being cyborg does have its benefits, though: Cinder's brain interference has given her an uncanny ability to fix things (robots, hovers, her own malfunctioning parts), making her the best mechanic in New Beijing. This reputation brings Prince Kai himself to her weekly market booth, needing her to repair a broken android before the annual ball. He jokingly calls it "a matter of national security," but Cinder suspects it's more serious than he's letting on. 
+				Although eager to impress the prince, Cinder's intentions are derailed when her younger stepsister, and only human friend, is infected with the fatal plague that's been devastating Earth for a decade. Blaming Cinder for her daughter's illness, Cinder's stepmother volunteers her body for plague research, an "honor" that no one has survived. But it doesn't take long for the scientists to discover something unusual about their new guinea pig. Something others would kill for. 
+			</Synopsis>
+		</Info>
+		<Price>499.65</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+	
+
+	<Book Category="Sci-fi">
+	    <ID>4</ID>
+		<Info>
+			<Title>The Martian</Title>
+			<Author>
+				<FName>Andy</FName>
+				<MInit/>
+				<LName>Weir</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Crown</PublicationHouse>
+				<PublishingDate>2014-02-11</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>80413</RegistrantElem>
+					<PubElem>902</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>369</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				A mission to Mars. 
+				A freak accident. 
+				One man's struggle to survive. 
+				Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. 
+				Now, he's sure he'll be the first person to die there. 
+				After a dust storm nearly kills him and forces his crew to evacuate the planet while thinking him dead, Mark finds himself stranded on Mars' surface, completely alone, with no way to signal Earth that he's alive. And even if he could get word out, his supplies would be gone years before a rescue could arrive. 
+				Chances are, though, Mark won't have time to starve to death. The damaged machinery, unforgiving environment or plain-old "human error" are much more likely to kill him first. 
+				But Mark's not ready to quit. Armed with nothing but his ingenuity and his engineering skills and a gallows sense of humor that proves to be his greatest source of strength, he embarks on a dogged quest to stay alive, using his botany expertise to grow food and even hatching a mad plan to contact NASA back on Earth. 
+				As he overcomes one seemingly insurmountable obstacle after the next, Mark begins to let himself believe he might make it off the planet alive. 
+				But Mars has plenty of surprises in store for him yet.
+			</Synopsis>
+		</Info>
+		<Price>738.91</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>5</ID>
+		<Info>
+			<Title>Fahrenheit 451</Title>
+			<Author>
+				<FName>Ray</FName>
+				<MInit/>
+				<LName>Bradbury</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Harper Voyager</PublicationHouse>
+				<PublishingDate>2013-03-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>00749</RegistrantElem>
+					<PubElem>156</PubElem>
+					<CheckDigit>8</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>227</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Guy Montag is a fireman. His job is to burn books, which are forbidden, being the source of all discord and unhappiness. Even so, Montag is unhappy; there is discord in his marriage. Are books hidden in his house? The Mechanical Hound of the Fire Department, armed with a lethal hypodermic, escorted by helicopters, is ready to track down those dissidents who defy society to preserve and read books. 
+				The classic dystopian novel of a post-literate future, Fahrenheit 451 stands alongside Orwell's 1984 and Huxley's Brave New World as a prophetic account of Western civilization's enslavement by the media, drugs and conformity. 
+				Bradbury's powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock.
+			</Synopsis>
+		</Info>
+		<Price>98.92</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>6</ID>
+		<Info>
+			<Title>Do Androids Dream of Electric Sheep?</Title>
+			<Author>
+				<FName>Phillip</FName>
+				<MInit>K</MInit>
+				<LName>Dick</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Del Ray</PublicationHouse>
+				<PublishingDate>1996-05-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>34540</RegistrantElem>
+					<PubElem>447</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>249</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				It was January 2021, and Rick Deckard had a license to kill.
+				Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then..."retire" them. 
+				Trouble was, the androids all looked exactly like humans, and they didn't want to be found!
+			</Synopsis>
+		</Info>
+		<Price>475.62</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+        <ID>7</ID>
+		<Info>
+			<Title>I, Robot</Title>
+			<Author>
+				<FName>Isaac</FName>
+				<MInit/>
+				<LName>Asimov</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Spectra</PublicationHouse>
+				<PublishingDate>2004-06-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>55380</RegistrantElem>
+					<PubElem>370</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>225</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				The three laws of Robotics: 
+				1) A robot may not injure a human being or, through inaction, allow a human being to come to harm. 
+				2) A robot must obey orders given to it by human beings except where such orders would conflict with the First Law. 
+				3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law. 
+				With these three, simple directives, Isaac Asimov changed our perception of robots forever when he formulated the laws governing their behavior. In I, Robot, Asimov chronicles the development of the robot through a series of interlinked stories: from its primitive origins in the present to its ultimate perfection in the not-so-distant future--a future in which humanity itself may be rendered obsolete. 
+				Here are stories of robots gone mad, of mind-read robots, and robots with a sense of humor. Of robot politicians, and robots who secretly run the world--all told with the dramatic blend of science fact and science fiction that has become Asimov's trademark.
+			</Synopsis>
+		</Info>
+		<Price>300</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+        <ID>8</ID>
+		<Info>
+			<Title>The Time Machine</Title>
+			<Author>
+				<FName>Herbert George</FName>
+				<MInit/>
+				<LName>Wells</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Signet Classics</PublicationHouse>
+				<PublishingDate>2002-10-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>45152</RegistrantElem>
+					<PubElem>855</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>118</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				So begins the Time Traveller's astonishing firsthand account of his journey 800,000 years beyond his own era, and the story that launched H.G. Wells's successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine's lever propels him to the age of a slowly dying Earth.  There he discovers two bizarre races, the ethereal Eloi and the subterranean Morlock, who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.  Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Well's expert storytelling and provocative insight, The Time Machine will continue to enthrall readers for generations to come.
+			</Synopsis>
+		</Info>
+		<Price>200</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+    	<ID>9</ID>
+		<Info>
+			<Title>The Island of Dr. Moreau</Title>
+			<Author>
+				<FName>Herbert George</FName>
+				<MInit/>
+				<LName>Wells</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Bantam Classics</PublicationHouse>
+				<PublishingDate>1994-05-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>55321</RegistrantElem>
+					<PubElem>432</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>153</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Ranked among the classic novels of the English language and the inspiration for several unforgettable movies, this early work of H. G. Wells was greeted in 1896 by howls of protest from reviewers, who found it horrifying and blasphemous. They wanted to know more about the wondrous possibilities of science shown in his first book, The Time Machine, not its potential for misuse and terror. In The Island of Dr. Moreau, a shipwrecked gentleman named Edward Prendick, stranded on a Pacific island lorded over by the notorious Dr. Moreau, confronts dark secrets, strange creatures, and a reason to run for his life. 
+				While this riveting tale was intended to be a commentary on evolution, divine creation, and the tension between human nature and culture, modern readers familiar with genetic engineering will marvel at Wells's prediction of the ethical issues raised by producing "smarter" human beings or bringing back extinct species. These levels of interpretation add a richness to Prendick's adventures on Dr. Moreau's island of lost souls without distracting from what is still a rip-roaring good read.
+			</Synopsis>
+		</Info>
+		<Price>250</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>10</ID>
+		<Info>
+			<Title>Helliconia</Title>
+			<Author>
+				<FName>Brian</FName>
+				<MInit>W</MInit>
+				<LName>Aldiss</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Harper Voyager</PublicationHouse>
+				<PublishingDate>1996-07-22</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>00648</RegistrantElem>
+					<PubElem>223</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>1088</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Helliconia is a planet that, due to the massively eccentric orbit of its own sun around another star, experiences seasons that lasts eons. Whole civilisations grow in the Spring, flourish in the Summer and then die in the brutal winters. The human-like inhabitants have been profoundly changed by their experience of this harsh cycle. 
+				In orbit above the planet a terran mission struggles to observe and understand the effects on society of such a massive climatic impact. 
+				Massive, thoroughly researched, minutely organised, full of action, pulp references and deep drama this is a classic trilogy.
+			</Synopsis>
+		</Info>
+		<Price>747.55</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>11</ID>
+		<Info>
+			<Title>Star Maker</Title>
+			<Author>
+				<FName>Olaf</FName>
+				<MInit/>
+				<LName>Stapledon</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Millenium Paperbacks</PublicationHouse>
+				<PublishingDate>1999-11-11</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>85798</RegistrantElem>
+					<PubElem>807</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>272</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Star Maker is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon's previous book, Last and First Men (1930), a history of the human species over two billion years. Star Maker tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered Star Maker to be one of the finest works of science fiction ever written.
+			</Synopsis>
+		</Info>
+		<Price>345</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>12</ID>
+		<Info>
+			<Title>The Anubis Gates</Title>
+			<Author>
+				<FName>Tim</FName>
+				<MInit/>
+				<LName>Powers</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Ace</PublicationHouse>
+				<PublishingDate>1997-01-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>44100</RegistrantElem>
+					<PubElem>401</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>387</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Brendan Doyle, a specialist in the work of the early-nineteenth century poet William Ashbless, reluctantly accepts an invitation from a millionaire to act as a guide to time-travelling tourists. But while attending a lecture given by Samuel Taylor Coleridge in 1810, he becomes marooned in Regency London, where dark and dangerous forces know about the gates in time. Caught up in the intrigue between rival bands of beggars, pursued by Egyptian sorcerers, befriended by Coleridge, Doyle somehow survives. And learns more about the mysterious Ashbless than he could ever have imagined possible.
+			</Synopsis>
+		</Info>
+		<Price>522.64</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>13</ID>
+		<Info>
+			<Title>Ender's Shadow</Title>
+			<Author>
+				<FName>Orson Scott</FName>
+				<MInit/>
+				<LName>Card</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Starscape</PublicationHouse>
+				<PublishingDate>2002-05-19</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>76534</RegistrantElem>
+					<PubElem>240</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>469</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Growing up is never easy. But try living on the mean streets as a child begging for food and fighting like a dog with ruthless gangs of starving kids who wouldn't hesitate to pound your skull into pulp for a scrap of apple. If Bean has learned anything on the streets, it's how to survive. And not with fists "He is way too small for that" But with brains. 
+				Bean is a genius with a magician's ability to zero in on his enemy and exploit his weakness. 
+				What better quality for a future general to lead the Earth in a final climactic battle against a hostile alien race, known as Buggers. At Battleschool Bean meets and befriends another future commander -- Ender Wiggins -- perhaps his only true rival. 
+				Only one problem: for Bean and Ender, the future is now.
+			</Synopsis>
+		</Info>
+		<Price>276.28</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>14</ID>
+		<Info>
+			<Title>Speaker for the Dead</Title>
+			<Author>
+				<FName>Orson Scott</FName>
+				<MInit/>
+				<LName>Card</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Tor Books</PublicationHouse>
+				<PublishingDate>1994-08-15</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>81255</RegistrantElem>
+					<PubElem>075</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>382</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				In the aftermath of his terrible war, Ender Wiggin disappeared, and a powerful voice arose: the Speaker for the Dead, who told of the true story of the Bugger War. 
+				Now long years later, a second alien race has been discovered, but again the aliens' ways are strange and frightening, again, humans die. And it is only the Speaker for the Dead, who is also Ender Wiggin the Xenocide, who has the courage to confront the mystery, and the truth.
+			</Synopsis>
+		</Info>
+		<Price>299.92</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Sci-fi">
+	    <ID>15</ID>
+		<Info>
+			<Title>The Dreaming Void</Title>
+			<Author>
+				<FName>Peter</FName>
+				<MInit>F</MInit>
+				<LName>Hamilton</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Del Ray</PublicationHouse>
+				<PublishingDate>2008-03-25</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>34549</RegistrantElem>
+					<PubElem>653</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>630</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				The year is 3589, fifteen hundred years after Commonwealth forces barely staved off human extinction in a war against the alien Prime. Now an even greater danger has surfaced: a threat to the existence of the universe itself. 
+				At the very heart of the galaxy is the Void, a self-contained microuniverse that cannot be breached, cannot be destroyed, and cannot be stopped as it steadily expands in all directions, consuming everything in its path: planets, stars, civilizations. The Void has existed for untold millions of years. Even the oldest and most technologically advanced of the galaxy's sentient races, the Raiel, do not know its origin, its makers, or its purpose.
+			</Synopsis>
+		</Info>
+		<Price>846.79</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>16</ID>
+		<Info>
+			<Title>Eleanor and Park</Title>
+			<Author>
+				<FName>Rainbow</FName>
+				<MInit/>
+				<LName>Rowell</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>St. Martin's Press</PublicationHouse>
+				<PublishingDate>2013-02-26</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>25001</RegistrantElem>
+					<PubElem>257</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>328</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Eleanor... Red hair, wrong clothes. Standing behind him until he turns his head. Lying beside him until he wakes up. Making everyone else seem drabber and flatter and never good enough...Eleanor.
+				Park... He knows she'll love a song before he plays it for her. He laughs at her jokes before she ever gets to the punch line. There's a place on his chest, just below his throat, that makes her want to keep promises...Park.
+				Set over the course of one school year, this is the story of two star-crossed sixteen-year-olds, smart enough to know that first love almost never lasts, but brave and desperate enough to try.
+			</Synopsis>
+		</Info>
+		<Price>561.57</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>17</ID>
+		<Info>
+			<Title>Fangirl</Title>
+			<Author>
+				<FName>Rainbow</FName>
+				<MInit/>
+				<LName>Rowell</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>St. Martin's Press</PublicationHouse>
+				<PublishingDate>2013-09-10</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>25003</RegistrantElem>
+					<PubElem>095</PubElem>
+					<CheckDigit>5</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>438</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				CATH IS A SIMON SNOW FAN. Okay, the whole world is a Simon Snow fan... But for Cath, being a fan is her life--and she's really good at it. She and her twin sister, Wren, ensconced themselves in the Simon Snow series when they were just kids; it's what got them through their mother leaving.
+				Reading. Rereading. Hanging out in Simon Snow forums, writing Simon Snow fanfiction, dressing up like the characters for every movie premiere. 
+				Cath's sister has mostly grown away from fandom, but Cath can't let go. She doesn't want to. 
+				Now that they're going to college, Wren has told Cath that she doesn't want to be roommates. Cath is on her own, completely outside of her comfort zone. She's got a surly roommate with a charming, always-around boyfriend; a fiction-writing professor who thinks fanfiction is the end of the civilized world; a handsome classmate who only wants to talk about words...and she can't stop worrying about her dad, who's loving and fragile and has never really been alone.
+				For Cath, the question is: Can she do this? Can she make it without Wren holding her hand? Is she ready to start living her own life? And does she even want to move on if it means leaving Simon Snow behind?
+			</Synopsis>
+		</Info>
+		<Price>600</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>18</ID>
+		<Info>
+			<Title>The Time Traveler's Wife</Title>
+			<Author>
+				<FName>Audrey</FName>
+				<MInit/>
+				<LName>Niffenegger</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Zola Books</PublicationHouse>
+				<PublishingDate>2013-09-23</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>93912</RegistrantElem>
+					<PubElem>601</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>500</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Audrey Niffenegger's dazzling debut is the story of Clare, a beautiful, strong-minded art student, and Henry, an adventuresome librarian, who have known each other since Clare was six and Henry was thirty-six, and were married when Clare was twenty-three and Henry thirty-one. Impossible but true, because Henry is one of the first people diagnosed with Chrono-Displacement Disorder: his genetic clock randomly resets and he finds himself misplaced in time, pulled to moments of emotional gravity from his life, past and future. His disappearances are spontaneous and unpredictable, and lend a spectacular urgency to Clare and Henry's unconventional love story. That their attempt to live normal lives together is threatened by something they can neither prevent nor control makes their story intensely moving and entirely unforgettable.
+			</Synopsis>
+		</Info>
+		<Price>360</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>19</ID>
+		<Info>
+			<Title>To All the Boys I've Loved Before</Title>
+			<Author>
+				<FName>Jenny</FName>
+				<MInit/>
+				<LName>Han</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Simon and Schuster Books for You</PublicationHouse>
+				<PublishingDate>2014-04-15</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>8</RegGroupElem>
+					<RegistrantElem>40812</RegistrantElem>
+					<PubElem>844</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>369</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				To All the Boys I've Loved Before is the story of Lara Jean, who has never openly admitted her crushes, but instead wrote each boy a letter about how she felt, sealed it, and hid it in a box under her bed. But one day Lara Jean discovers that somehow her secret box of letters has been mailed, causing all her crushes from her past to confront her about the letters: her first kiss, the boy from summer camp, even her sister's ex-boyfriend, Josh. As she learns to deal with her past loves face to face, Lara Jean discovers that something good may come out of these letters after all.
+			</Synopsis>
+		</Info>
+		<Price>335.94</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>20</ID>
+		<Info>
+			<Title>Looking for Alaska</Title>
+			<Author>
+				<FName>John</FName>
+				<MInit/>
+				<LName>Green</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Speak</PublicationHouse>
+				<PublishingDate>2006-12-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>14240</RegistrantElem>
+					<PubElem>251</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>221</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Before. Miles "Pudge" Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave "the Great Perhaps" even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . 
+				After. Nothing is ever the same.
+			</Synopsis>
+		</Info>
+		<Price>359.5</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>21</ID>
+		<Info>
+			<Title>Message in a Bottle</Title>
+			<Author>
+				<FName>Nicholas</FName>
+				<MInit/>
+				<LName>Sparks</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Warner Books</PublicationHouse>
+				<PublishingDate>1999-12-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>44667</RegistrantElem>
+					<PubElem>607</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>342</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Thrown to the waves, and to fate, the bottle could have ended up anywhere. Instead, it is found just three weeks after it begins its journey. Theresa Osborne, divorced and the mother of a twelve-year-old son, discovers it during a seaside vacation from her job as a Boston newspaper columnist. Inside is a letter that opens with, "My Dearest Catherine, I miss you my darling, as I always do, but today is particularly hard because the ocean has been singing to me, and the song is that of our life together." For Garrett, the message is the only way he knows to express his undying love for a woman he has lost. For Theresa, wary of romance since her husband shattered her trust, the message raises questions that intrigue her. Challenged by the mystery, and driven to find Garrett by emotions she does not fully understand, Theresa begins a search that takes her to a sunlit coastal town and an unexpected confrontation. Brought together either by chance or something more powerful, Theresa and Garrett's lives come together in a tale that resonates with our deepest hopes for finding everlasting love. Shimmering with suspense and emotional intensity, Message in a Bottle takes readers on a hunt for the truth about a man and his memories, and about both the heartbreaking fragility and enormous strength of love. For those who cherished The Notebook and readers waiting to discover the magic of Nicholas Sparks's storytelling, here is an achingly lovely novel of happenstance, desire, and the choices that matter most.
+			</Synopsis>
+		</Info>
+		<Price>861.91</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>22</ID>
+		<Info>
+			<Title>A Walk to Remember</Title>
+			<Author>
+				<FName>Nicholas</FName>
+				<MInit/>
+				<LName>Sparks</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Grand Central Publishing</PublicationHouse>
+				<PublishingDate>2004-09-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>44669</RegistrantElem>
+					<PubElem>380</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>240</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Every April, when the wind blows from the sea and mingles with the scent of lilacs, Landon Carter remembers his last year at Beaufort High. It was 1958, and Landon had already dated a girl or two. He even swore that he had once been in love. Certainly the last person in town he thought he'd fall for was Jamie Sullivan, the daughter of the town's Baptist minister. 
+				A quiet girl who always carried a Bible with her schoolbooks, Jamie seemed content living in a world apart from the other teens. She took care of her widowed father, rescued hurt animals, and helped out at the local orphanage. No boy had ever asked her out. Landon would never have dreamed of it. 
+				Then a twist of fate made Jamie his partner for the homecoming dance, and Landon Carter's life would never be the same. Being with Jamie would show him the depths of the human heart and lead him to a decision so stunning it would send him irrevocably on the road to manhood...
+			</Synopsis>
+		</Info>
+		<Price>501.4</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>23</ID>
+		<Info>
+			<Title>Safe Harbour</Title>
+			<Author>
+				<FName>Danielle</FName>
+				<MInit/>
+				<LName>Steel</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Corgi</PublicationHouse>
+				<PublishingDate>2004-11-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>55214</RegistrantElem>
+					<PubElem>991</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>432</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Extraordinary acts of faith and courage unite a family after a tragedy threatened to tear them apart.
+				At eleven, Pip Mackenzie's young life has already been touched by tragedy; nine months before, a terrible accident plunged her mother Ophelie into inconsolable grief. But on a chilly July afternoon in San Francisco, Pip meets artist Matt Bowles, who offers to teach the girl to draw, and can't help but notice her beautiful, lonely mother. 
+				Matt Bowles senses something magical about Pip, who reminds him of his own daughter, before a bitter divorce swept his children halfway across the world. At first, Ophelie is thrown off-balance by her daughter's new companion and until she realizes how much joy he is bringing into their lives. As Matt confronts unfinished business from his past, and Ophelie is struck by a stunning betrayal, out of the darkness that has shadowed them both comes an unexpected gift of hope.
+			</Synopsis>
+		</Info>
+		<Price>288.31</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>24</ID>
+		<Info>
+			<Title>Fifty Shades of Grey</Title>
+			<Author>
+				<FName>EL</FName>
+				<MInit/>
+				<LName>James</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Vintage</PublicationHouse>
+				<PublishingDate>2011-05-25</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>61213</RegistrantElem>
+					<PubElem>029</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>356</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana's quiet beauty, wit, and independent spirit, Grey admits he wants her, too -- but on his own terms.
+				Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success, his multinational businesses, his vast wealth, his loving family, Grey is a man tormented by demons and consumed by the need to control. When the couple embarks on a daring, passionately physical affair, Ana discovers Christian Grey's secrets and explores her own dark desires.
+			</Synopsis>
+		</Info>
+		<Price>500</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>25</ID>
+		<Info>
+			<Title>Fifty Shades Darker</Title>
+			<Author>
+				<FName>EL</FName>
+				<MInit/>
+				<LName>James</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>The Writer's Coffee Shop Publishing House</PublicationHouse>
+				<PublishingDate>2011-09-16</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>61213</RegistrantElem>
+					<PubElem>058</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>532</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Daunted by the singular sexual tastes and dark secrets of the beautiful, tormented young entrepreneur Christian Grey, Anastasia Steele has broken off their relationship to start a new career with a Seattle publishing house. But desire for Christian still dominates her every waking thought, and when he proposes a new arrangement, Anastasia cannot resist. They rekindle their searing sensual affair, and Anastasia learns more about the harrowing past of her damaged, driven, and demanding Fifty Shades. While Christian wrestles with his inner demons, Anastasia must confront her anger and envy of the women who came before her and make the most important decision of her life. Erotic, sparkling and suspenseful, Fifty Shades Darker is the irresistibly addictive second part of the Fifty Shades trilogy.
+			</Synopsis>
+		</Info>
+		<Price>750</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>26</ID>
+		<Info>
+			<Title>Fifty Shades Freed</Title>
+			<Author>
+				<FName>EL</FName>
+				<MInit/>
+				<LName>James</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Vintage Books</PublicationHouse>
+				<PublishingDate>2012-04-17</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>34580</RegistrantElem>
+					<PubElem>350</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>579</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				When unworldly student Anastasia Steele first encountered the driven and dazzling young entrepreneur Christian Grey it sparked a sensual affair that changed both of their lives irrevocably. Shocked, intrigued, and, ultimately, repelled by Christia's singular erotic tastes, Ana demands a deeper commitment. Determined to keep her, Christian agrees.
+				Now, Ana and Christian have it all: love, passion, intimacy, wealth, and a world of possibilities for their future. But Ana knows that loving her Fifty Shades will not be easy, and that being together will pose challenges that neither of them would anticipate. Ana must somehow learn to share Christian's opulent lifestyle without sacrificing her own identity. And Christian must overcome his compulsion to control as he wrestles with the demons of a tormented past.
+				Just when it seems that their strength together will eclipse any obstacle, misfortune, malice, and fate conspire to make Ana's deepest fears turn to reality.
+				This book is intended for mature audiences.
+			</Synopsis>
+		</Info>
+		<Price>450</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>27</ID>
+		<Info>
+			<Title>The Statistical Probability of Love at First Sight</Title>
+			<Author>
+				<FName>Jeniffer</FName>
+				<MInit>E</MInit>
+				<LName>Smith</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Poppy/Little Brown</PublicationHouse>
+				<PublishingDate>2012-01-02</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>31612</RegistrantElem>
+					<PubElem>238</PubElem>
+					<CheckDigit>2</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>236</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Who would have guessed that four minutes could change everything?
+				Today should be one of the worst days of seventeen-year-old Hadley Sullivan's life. Having missed her flight, she's stuck at JFK airport and late to her father's second wedding, which is taking place in London and involves a soon-to-be stepmother Hadley's never even met. Then she meets the perfect boy in the airport's cramped waiting area. His name is Oliver, he's British, and he's sitting in her row.
+				A long night on the plane passes in the blink of an eye, and Hadley and Oliver lose track of each other in the airport chaos upon arrival. Can fate intervene to bring them together once more?
+				Quirks of timing play out in this romantic and cinematic novel about family connections, second chances, and first loves. Set over a twenty-four-hour-period, Hadley and Oliver's story will make you believe that true love finds you when you're least expecting it.
+			</Synopsis>
+		</Info>
+		<Price>538.36</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>28</ID>
+		<Info>
+			<Title>This is What Happy Looks Like</Title>
+			<Author>
+				<FName>Jennifer</FName>
+				<MInit>E</MInit>
+				<LName>Smith</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Headline</PublicationHouse>
+				<PublishingDate>2013-04-02</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>31621</RegistrantElem>
+					<PubElem>282</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>404</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				If fate sent you an email, would you answer?
+				When teenage movie star Graham Larkin accidentally sends small town girl Ellie O'Neill an email about his pet pig, the two seventeen-year-olds strike up a witty and unforgettable correspondence, discussing everything under the sun, except for their names or backgrounds.
+				Then Graham finds out that Ellie's Maine hometown is the perfect location for his latest film, and he decides to take their relationship from online to in-person. But can a star as famous as Graham really start a relationship with an ordinary girl like Ellie? And why does Ellie want to avoid the media's spotlight at all costs?
+			</Synopsis>
+		</Info>
+		<Price>565.4</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Romance">
+	    <ID>29</ID>
+		<Info>
+			<Title>Our Song</Title>
+			<Author>
+				<FName>Jordanna</FName>
+				<MInit/>
+				<LName>Fraiberg</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Razorbill</PublicationHouse>
+				<PublishingDate>2013-05-02</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>59514</RegistrantElem>
+					<PubElem>268</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>352</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Olive Bell has spent her entire life in the beautiful suburb of Vista Valley, with a picture-perfect home, a loving family, and a seemingly perfect boyfriend. But after a near-fatal car accident, she's haunted by a broken heart and a melody that she cannot place.
+				Then Olive meets Nick. He's dark, handsome, mysterious . . . and Olive feels connected to him in a way she can't explain. Is there such a thing as fate? The two embark on a whirlwind romance -- until Nick makes a troubling confession.
+				Heartbroken, Olive pieces together what really happened the night of her accident and arrives at a startling revelation. Only by facing the truth can she uncover the mystery behind the song and the power of what it means to love someone.
+			</Synopsis>
+		</Info>
+		<Price>400</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	    <ID>30</ID>	
+		<Info>
+			<Title>A Game of Thrones</Title>
+			<Author>
+				<FName>George</FName>
+				<MInit/>
+				<LName>Martin</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Bantam</PublicationHouse>
+				<PublishingDate>1996-08-06</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>55358</RegistrantElem>
+					<PubElem>848</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>835</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.
+				As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must, and a dead enemy is a thing of beauty.
+				The old gods have no power in the south, Stark's family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
+			</Synopsis>
+		</Info>
+		<Price>112.68</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	    <ID>31</ID>
+		<Info>
+			<Title>Dragonwatch</Title>
+			<Author>
+				<FName>Brandon</FName>
+				<MInit/>
+				<LName>Mull</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Shadow Mountain</PublicationHouse>
+				<PublishingDate>2017-03-14</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>62972</RegistrantElem>
+					<PubElem>256</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>384</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				In the long-awaited sequel to Fablehaven, the dragons who have been kept at the dragon sanctuaries no longer consider them safe havens, but prisons and they want their freedom. The dragons are no longer our allies....
+				In the hidden dragon sanctuary of Wyrmroost, Celebrant the Just, King of the Dragons, plots his revenge. He has long seen the sanctuaries as prisons, and he wants nothing more than to overthrow his captors and return the world to the Age of Dragons, when he and his kind ruled and reigned without borders. The time has come to break free and reclaim his power.
+			</Synopsis>
+		</Info>
+		<Price>600</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	    <ID>32</ID>
+		<Info>
+			<Title>A Clash of Kings</Title>
+			<Author>
+				<FName>George</FName>
+				<MInit/>
+				<LName>Martin</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Bantam</PublicationHouse>
+				<PublishingDate>2002-05-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>55338</RegistrantElem>
+					<PubElem>169</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>761</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Time is out of joint. The summer of peace and plenty, ten years long, is drawing to a close, and the harsh, chill winter approaches like an angry beast. Two great leaders -- Lord Eddard Stark and Robert Baratheon -- who held sway over an age of enforced peace are dead...victims of royal treachery. Now, from the ancient citadel of Dragonstone to the forbidding shores of Winterfell, chaos reigns, as pretenders to the Iron Throne of the Seven Kingdoms prepare to stake their claims through tempest, turmoil, and war.
+				As a prophecy of doom cuts across the sky -- a comet the color of blood and flame -- six factions struggle for control of a divided land. Eddard's son Robb has declared himself King in the North. In the south, Joffrey, the heir apparent, rules in name only, victim of the scheming courtiers who teem over King's Landing. Robert's two brothers each seek their own dominion, while a disfavored house turns once more to conquest. And a continent away, an exiled queen, the Mother of Dragons, risks everything to lead her precious brood across a hard hot desert to win back the crown that is rightfully hers.
+				A Clash of Kings transports us into a magnificent, forgotten land of revelry and revenge, wizardry and wartime. It is a tale in which maidens cavort with madmen, brother plots against brother, and the dead rise to walk in the night. Here a princess masquerades as an orphan boy; a knight of the mind prepares a poison for a treacherous sorceress; and wild men descend from the Mountains of the Moon to ravage the countryside. 
+				Against a backdrop of incest and fratricide, alchemy and murder, the price of glory may be measured in blood. And the spoils of victory may just go to the men and women possessed of the coldest steel...and the coldest hearts. For when rulers clash, all of the land feels the tremors. 
+				Audacious, inventive, brilliantly imagined, A Clash of Kings is a novel of dazzling beauty and boundless enchantment;a tale of pure excitement you will never forget.
+			</Synopsis>
+		</Info>
+		<Price>395</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	    <ID>33</ID>
+		<Info>
+			<Title>Harry Potter and the Cursed Child</Title>
+			<Author>
+				<FName>John</FName>
+				<MInit/>
+				<LName>Tiffany</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Little, Brown UK</PublicationHouse>
+				<PublishingDate>2016-07-31</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>75156</RegistrantElem>
+					<PubElem>535</PubElem>
+					<CheckDigit>5</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>343</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Based on an original new story by J.K. Rowling, Jack Thorne and John Tiffany, a new play by Jack Thorne, Harry Potter and the Cursed Child is the eighth story in the Harry Potter series and the first official Harry Potter story to be presented on stage. The play will receive its world premiere in London's West End on July 30, 2016.
+				It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband and father of three school-age children.
+				While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places.
+			</Synopsis>
+		</Info>
+		<Price>430</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	    <ID>34</ID>
+		<Info>
+			<Title>Eragon</Title>
+			<Author>
+				<FName>Christopher</FName>
+				<MInit/>
+				<LName>Paolini</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Knopf Books for Young Readers</PublicationHouse>
+				<PublishingDate>2005-04-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>37582</RegistrantElem>
+					<PubElem>669</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>503</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				One boy. One dragon. A world of adventure.
+				When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter. But when the stone brings a dragon hatchling, Eragon realizes he has stumbled upon a legacy nearly as old as the Empire itself.
+				Overnight his simple life is shattered, and he is thrust into a perilous new world of destiny, magic, and power. With only an ancient sword and the advice of an old storyteller for guidance, Eragon and the fledgling dragon must navigate the dangerous terrain and dark enemies of an Empire ruled by a king whose evil knows no bounds.
+				Can Eragon take up the mantle of the legendary Dragon Riders? The fate of the Empire may rest in his hands.
+			</Synopsis>
+		</Info>
+		<Price>366</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+		<Book Category="Fantasy">
+		<ID>36</ID>
+		<Info>
+			<Title>Percy Jackson and the Olympians, Book I: The Lightning Thief</Title>
+			<Author>
+				<FName>Rick</FName>
+				<MInit/>
+				<LName>Riordan</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Hyperion Books</PublicationHouse>
+				<PublishingDate>2010-01-05</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>42313</RegistrantElem>
+					<PubElem>494</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>377</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Percy Jackson is about to be kicked out of boarding school...again. And that's the least of his troubles. Lately, mythological monsters and the gods of Mount Olympus seem to be walking straight out of the pages of Percy's Greek mythology textbook and into his life. And worse, he's angered a few of them. Zeus�s master lightning bolt has been stolen, and Percy is the prime suspect.
+			</Synopsis>
+		</Info>
+		<Price>210.83</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>37</ID>
+		<Info>
+			<Title>Heroes of Olympus, Book IV: The House of Hades</Title>
+			<Author>
+				<FName>Rick</FName>
+				<MInit/>
+				<LName>Riordan</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Hyperion Books</PublicationHouse>
+				<PublishingDate>2013-10-08</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>42314</RegistrantElem>
+					<PubElem>672</PubElem>
+					<CheckDigit>8</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>597</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				At the conclusion of The Mark of Athena, Annabeth and Percy tumble into a pit leading straight to the Underworld. The other five demigods have to put aside their grief and follow Percy's instructions to find the mortal side of the Doors of Death. If they can fight their way through the Gaea's forces, and Percy and Annabeth can survive the House of Hades, then the Seven will be able to seal the Doors from both sides and prevent the giants from raising Gaea. But, Leo wonders, if the Doors are sealed, how will Percy and Annabeth be able to escape? They have no choice. If the demigods don't succeed, Gaea's armies will never die. They have no time. In about a month, the Romans will march on Camp Half-Blood.
+			</Synopsis>
+		</Info>
+		<Price>597.59</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>38</ID>
+		<Info>
+			<Title>Kane Chronicles, Book 1: The Red Pyramid</Title>
+			<Author>
+				<FName>Rick</FName>
+				<MInit/>
+				<LName>Riordan</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Hyperion Books</PublicationHouse>
+				<PublishingDate>2010-05-04</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>42311</RegistrantElem>
+					<PubElem>338</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>516</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Since their mother's death, Carter and Sadie have become near strangers. While Sadie has lived with her grandparents in London, her brother has traveled the world with their father, the brilliant Egyptologist, Dr. Julius Kane. One night, Dr. Kane brings the siblings together for a "research experiment" at the British Museum, where he hopes to set things right for his family. Instead, he unleashes the Egyptian god Set, who banishes him to oblivion and forces the children to flee for their lives. Soon, Sadie and Carter discover that the gods of Egypt are waking, and the worst of them -- Set -- has his sights on the Kanes. To stop him, the siblings embark on a dangerous journey across the globe - a quest that brings them ever closer to the truth about their family and their links to a secret order that has existed since the time of the pharaohs.
+			</Synopsis>
+		</Info>
+		<Price>518.41</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>39</ID>
+		<Info>
+			<Title>Seven Wonders #1: The Colossus Rises</Title>
+			<Author>
+				<FName>Peter</FName>
+				<MInit/>
+				<LName>Lerangis</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>HarperCollins</PublicationHouse>
+				<PublishingDate>2013-02-05</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06207</RegistrantElem>
+					<PubElem>040</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>348</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				One Boy
+				Jack McKinley is an ordinary kid with an extraordinary problem. In a few months, he's going to die.
+				One Mission
+				Jack needs to find seven magic loculi that, when combined, have the power to cure him.
+				One Problem
+				The loculi are the relics of a lost civilization and haven't been seen in thousands of years.
+				Seven Wonders
+				Because they're hidden in the Seven Wonders of the Ancient World.
+			</Synopsis>
+		</Info>
+		<Price>598.26</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>40</ID>
+		<Info>
+			<Title>The Hobbit</Title>
+			<Author>
+				<FName>J.R.R.</FName>
+				<MInit/>
+				<LName>Lerangis</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>HMH Books for Young Readers; Young Reader ed. edition</PublicationHouse>
+				<PublishingDate>2012-08-15</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>61826</RegistrantElem>
+					<PubElem>030</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>366</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort. Written for J.R.R. Tolkien's own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!
+			</Synopsis>
+		</Info>
+		<Price>413</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>41</ID>
+		<Info>
+			<Title>His Dark Materials, #1: The Golden Compass</Title>
+			<Author>
+				<FName>Philip</FName>
+				<MInit/>
+				<LName>Pullman</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Alfred A. Knopf</PublicationHouse>
+				<PublishingDate>1996-04-16</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>67987</RegistrantElem>
+					<PubElem>924</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>399</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Here lives an orphaned ward named Lyra Belacqua, whose carefree life among the scholars at Oxford's Jordan College is shattered by the arrival of two powerful visitors. First, her fearsome uncle, Lord Asriel, appears with evidence of mystery and danger in the far North, including photographs of a mysterious celestial phenomenon called Dust and the dim outline of a city suspended in the Aurora Borealis that he suspects is part of an alternate universe. He leaves Lyra in the care of Mrs. Coulter, an enigmatic scholar and explorer who offers to give Lyra the attention her uncle has long refused her. In this multilayered narrative, however, nothing is as it seems. Lyra sets out for the top of the world in search of her kidnapped playmate, Roger, bearing a rare truth-telling instrument, the alethiometer. All around her children are disappearing -- victims of so-called "Gobblers" -- and being used as subjects in terrible experiments that separate humans from their daemons, creatures that reflect each person's inner being. And somehow, both Lord Asriel and Mrs. Coulter are involved.
+			</Synopsis>
+		</Info>
+		<Price>743.66</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>42</ID>
+		<Info>
+			<Title>A Wrinkle in Time Quintet, #1: A Wrinkle in Time</Title>
+			<Author>
+				<FName>Madeleine</FName>
+				<MInit/>
+				<LName>L'Engle</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Yearling</PublicationHouse>
+				<PublishingDate>1973-03-15</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>44049</RegistrantElem>
+					<PubElem>805</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>211</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				It was a dark and stormy night; Meg Murry, her small brother Charles Wallace, and her mother had come down to the kitchen for a midnight snack when they were upset by the arrival of a most disturbing stranger.  "Wild nights are my glory," the unearthly stranger told them. "I just got caught in a downdraft and blown off course. Let me be on my way. Speaking of way, by the way, there is such a thing as a tesseract�. Meg's father had been experimenting with this fifth dimension of time travel when he mysteriously disappeared. Now the time has come for Meg, her friend Calvin, and Charles Wallace to rescue him. But can they outwit the forces of evil they will encounter on their heart-stopping journey through space?
+			</Synopsis>
+		</Info>
+		<Price>0.50</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>43</ID>
+		<Info>
+			<Title>Inkworld, #1: Inkheart</Title>
+			<Author>
+				<FName>Cornelia</FName>
+				<MInit/>
+				<LName>Funke</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Scholastic Paperback</PublicationHouse>
+				<PublishingDate>2005-06-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>43970</RegistrantElem>
+					<PubElem>910</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>548</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Twelve-year-old Meggie learns that her father, who repairs and binds books for a living, can "read" fictional characters to life when one of those characters abducts them and tries to force him into service. Characters from books literally leap off the page in this engrossing fantasy. Meggie has had her father to herself since her mother went away when she was young. Mo taught her to read when she was five, and the two share a mutual love of books. He can "read" characters out of books. When she was three, he read aloud from a book called Inkheart and released characters into the real world. At the same time, Meggie's mother disappeared into the story. This "story within a story" will delight not just fantasy fans, but all readers who like an exciting plot with larger-than-life characters.
+			</Synopsis>
+		</Info>
+		<Price>333.58</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>44</ID>
+		<Info>
+			<Title>Harry Potter and the Sorcerer's Stone</Title>
+			<Author>
+				<FName>J.K.</FName>
+				<MInit/>
+				<LName>Rowling</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Arthur A. Levine Books</PublicationHouse>
+				<PublishingDate>2003-11-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>43955</RegistrantElem>
+					<PubElem>493</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>320</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.
+				After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.
+				Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.
+				Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.
+			</Synopsis>
+		</Info>
+		<Price>747.67</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Fantasy">
+	<ID>45</ID>
+		<Info>
+			<Title>Ink Mage</Title>
+			<Author>
+				<FName>Victor</FName>
+				<MInit/>
+				<LName>Gischler</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>47North</PublicationHouse>
+				<PublishingDate>2014-04-29</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>47784</RegistrantElem>
+					<PubElem>930</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>400</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				In the first installment of the A Fire Beneath the Skin trilogy, the city of Klaar has never fallen. No enemy has ever made it across the Long Bridge or penetrated the city's mighty walls. Even when a powerful invading army shows up at the gates, the duke and his daughter, Rina Veraiin, are certain that it poses little threat.
+				But they are cruelly betrayed from within and, in a horrific spasm of violence, the city is brought to its knees.
+				With the help of her bodyguard, Kork, the battle-trained young Rina narrowly escapes the slaughter and makes her way to the lair of an ancient sorcerer'the Ink Mage, who gifts her with a strange, beautiful set of magical tattoos.
+				Now a duchess in exile, Rina sets out on a quest to reclaim what is rightfully hers, aided by a motley assortment of followers who will help her in her cause, some for noble reasons and others for their own dark purposes.
+				With the enemy's agents nipping at her heels, Rina must learn to harness her new and startling magical powers if she is to assert her rightful place as ruler of Klaar.
+			</Synopsis>
+		</Info>
+		<Price>547.91</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>46</ID>
+		<Info>
+			<Title>Yes Please</Title>
+			<Author>
+				<FName>Amy</FName>
+				<MInit/>
+				<LName>Gischler</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Dey Street Books</PublicationHouse>
+				<PublishingDate>2014-10-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06226</RegistrantElem>
+					<PubElem>834</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>329</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				In Amy Poehler's highly anticipated first book, Yes Please, she offers up a big juicy stew of personal stories, funny bits on sex and love and friendship and parenthood and real life advice (some useful, some not so much), like when to be funny and when to be serious. Powered by Amy's charming and hilarious, biting yet wise voice, Yes Please is a book full of words to live by.
+			</Synopsis>
+		</Info>
+		<Price>219.02</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>47</ID>
+		<Info>
+			<Title>Elon Musk: Inventing the Future</Title>
+			<Author>
+				<FName>Ashlee</FName>
+				<MInit/>
+				<LName>Vance</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Ecco Press</PublicationHouse>
+				<PublishingDate>2015-05-19</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06230</RegistrantElem>
+					<PubElem>123</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>392</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley's most exciting, unpredictable, and ambitious entrepreneurs, Elon Musk. a real-life Tony Stark, and a fascinating exploration of the renewal of American invention and its new "makers"
+				Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius's life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits.
+				Vance uses Musk's story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk. one of the most unusual and striking figures in American business histoy, is a contemporary, visionary amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy.
+				Thorough and insightful, Elon Musk brings to life a technology industry that is rapidly and dramatically changing by examining the life of one of its most powerful and influential titans.
+			</Synopsis>
+		</Info>
+		<Price>713.71</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>48</ID>
+		<Info>
+			<Title>The Best We Could Do</Title>
+			<Author>
+				<FName>Thi</FName>
+				<MInit/>
+				<LName>Bui</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Abrams Books</PublicationHouse>
+				<PublishingDate>2017-03-07</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>41971</RegistrantElem>
+					<PubElem>877</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>336</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				An intimate and poignant graphic novel portraying one family's journey from war-torn Vietnam from debut author Thi Bui.
+				This beautifully illustrated and emotional story is an evocative memoir about the search for a better future and a longing for the past. Exploring the anguish of immigration and the lasting effects that displacement has on a child and her family, Bui documents the story of her family's daring escape after the fall of South Vietnam in the 1970s, and the difficulties they faced building new lives for themselves.
+				At the heart of Bui's story is a universal struggle: While adjusting to life as a first-time mother, she ultimately discovers what it means to be a parent, the endless sacrifices, the unnoticed gestures, and the depths of unspoken love. Despite how impossible it seems to take on the simultaneous roles of both parent and child, Bui pushes through. With haunting, poetic writing and breathtaking art, she examines the strength of family, the importance of identity, and the meaning of home.
+				In what Pulitzer Prize-winning novelist Viet Thanh Nguyen calls "a book to break your heart and heal it," The Best We Could Do brings to life Thi Bui's journey of understanding, and provides inspiration to all of those who search for a better future while longing for a simpler past.
+			</Synopsis>
+		</Info>
+		<Price>782.20</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>49</ID>
+		<Info>
+			<Title>A Colony in a Nation</Title>
+			<Author>
+				<FName>Christopher</FName>
+				<MInit>L</MInit>
+				<LName>Hayes</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>W. W. Norton Company</PublicationHouse>
+				<PublishingDate>2017-03-21</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06226</RegistrantElem>
+					<PubElem>834</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>256</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				America likes to tell itself that it inhabits a post-racial world, but nearly every empirical measure -- wealth, unemployment, incarceration, school segregation -- reveals that racial inequality hasn't improved since 1968. With the clarity and originality that distinguished his prescient bestseller Twilight of the Elites ("a stunning polemic," said Ta-Nehisi Coates), award-winning journalist Chris Hayes offers a powerful new framework in which to understand our current crisis.
+				Hayes contends our country has fractured in two: the Colony and the Nation. In the Nation, we venerate the law. In the Colony, we obsess over order; fear trumps civil rights; and aggressive policing resembles occupation. How and why did Americans build a system where conditions in Ferguson and West Baltimore mirror those that sparked the American Revolution?
+				Blending wide-ranging historical research with political, social, and economic analysis, A Colony in a Nation explains how a Nation founded on justice constructed the Colony -- and how it threatens our democracy.
+			</Synopsis>
+		</Info>
+		<Price>806.64</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>50</ID>
+		<Info>
+			<Title>Furiously Happy</Title>
+			<Author>
+				<FName>Jenny</FName>
+				<MInit/>
+				<LName>Lawson</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Flatiron Books</PublicationHouse>
+				<PublishingDate>2015-09-22</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>25007</RegistrantElem>
+					<PubElem>700</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>329</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				In LET'S PRETEND THIS NEVER HAPPENED, Jenny Lawson baffled readers with stories about growing up the daughter of a taxidermist. In her new book, FURIOUSLY HAPPY, Jenny explores her lifelong battle with mental illness. A hysterical, ridiculous book about crippling depression and anxiety? That sounds like a terrible idea. And terrible ideas are what Jenny does best.
+				According to Jenny: "Some people might think that being 'furiously happy' is just an excuse to be stupid and irresponsible and invite a herd of kangaroos over to your house without telling your husband first because you suspect he would say no since he's never particularly liked kangaroos. And that would be ridiculous because no one would invite a herd of kangaroos into their house. Two is the limit. I speak from personal experience. My husband says that none is the new limit. I say he should have been clearer about that before I rented all those kangaroos."
+				"Most of my favorite people are dangerously fucked-up but you'd never guess because we've learned to bare it so honestly that it becomes the new normal. Like John Hughes wrote in The Breakfast Club, 'We're all pretty bizarre. Some of us are just better at hiding it.' Except go back and cross out the word 'hiding.'"
+				Jenny's first book, LET'S PRETEND THIS NEVER HAPPENED, was ostensibly about family, but deep down it was about celebrating your own weirdness. FURIOUSLY HAPPY is a book about mental illness, but under the surface it's about embracing joy in fantastic and outrageous ways-and who doesn't need a bit more of that?
+			</Synopsis>
+		</Info>
+		<Price>638.17</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>51</ID>
+		<Info>
+			<Title>Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race</Title>
+			<Author>
+				<FName>Margot Lee</FName>
+				<MInit/>
+				<LName>Shetterly</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>William Morrow Paperbacks</PublicationHouse>
+				<PublishingDate>2016-12-06</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06236</RegistrantElem>
+					<PubElem>360</PubElem>
+					<CheckDigit>2</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>349</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				The phenomenal true story of the black female mathematicians at NASA whose calculations helped fuel some of America's greatest achievements in space. Now a major motion picture starring Taraji P. Henson, Octavia Spencer, Janelle Monae, Kirsten Dunst, and Kevin Costner.
+				Before John Glenn orbited the Earth or Neil Armstrong walked on the moon, a group of dedicated female mathematicians known as "human computers" used pencils, slide rules, and adding machines to calculate the numbers that would launch rockets and astronauts into space.
+				Among these problem solvers were a group of exceptionally talented African American women, some of the brightest minds of their generation. Originally relegated to teaching math in the South's segregated public schools, they were called into service during the labor shortages of World War II, when America's aeronautics industry was in dire need of anyone who had the right stuff. Suddenly these overlooked math whizzes had shots at jobs worthy of their skills, and they answered Uncle Sam's call, moving to Hampton, Virginia, and the fascinating, high-energy world of the Langley Memorial Aeronautical Laboratory.
+				Even as Virginia's Jim Crow laws required them to be segregated from their white counterparts, the women of Langley's all-black West Computing group helped America achieve one of the things it desired most: a decisive victory over the Soviet Union in the Cold War and complete domination of the heavens.
+				Starting in World War II and moving through to the Cold War, the civil rights movement, and the space race, Hidden Figures follows the interwoven accounts of Dorothy Vaughan, Mary Jackson, Katherine Johnson, and Christine Darden, four African American women who participated in some of NASA's greatest successes. It chronicles their careers over nearly three decades as they faced challenges, forged alliances, and used their intellects to change their own lives - and their country's future.
+			</Synopsis>
+		</Info>
+		<Price>478.50</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>52</ID>
+		<Info>
+			<Title>On Tyranny: Twenty Lessons from the Twentieth Century</Title>
+			<Author>
+				<FName>Timothy</FName>
+				<MInit/>
+				<LName>Snyder</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Tim Duggan Books</PublicationHouse>
+				<PublishingDate>2017-03-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>80419</RegistrantElem>
+					<PubElem>011</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>128</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				An historian of fascism offers a guide for surviving and resisting America's turn towards authoritarianism.
+				On November 9th, millions of Americans woke up to the impossible: the election of Donald Trump as president. Against all predictions, one of the most-disliked presidential candidates in history had swept the electoral college, elevating a man with open contempt for democratic norms and institutions to the height of power.
+				Timothy Snyder is one of the most celebrated historians of the Holocaust. In his books Bloodlands and Black Earth, he has carefully dissected the events and values that enabled the rise of Hitler and Stalin and the execution of their catastrophic policies. With Twenty Lessons, Snyder draws from the darkest hours of the twentieth century to provide hope for the twenty-first. As he writes, "Americans are no wiser than the Europeans who saw democracy yield to fascism, Nazism and communism. Our one advantage is that we might learn from their experience."
+				Twenty Lessons is a call to arms and a guide to resistance, with invaluable ideas for how we can preserve our freedoms in the uncertain years to come.
+			</Synopsis>
+		</Info>
+		<Price>309.60</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>53</ID>
+		<Info>
+			<Title>The Rules Do Not Apply</Title>
+			<Author>
+				<FName>Ariel</FName>
+				<MInit/>
+				<LName>Levy</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Random House</PublicationHouse>
+				<PublishingDate>2017-03-14</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>81299</RegistrantElem>
+					<PubElem>693</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>224</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				When thirty-eight-year-old New Yorker writer Ariel Levy left for a reporting trip to Mongolia in 2012, she was pregnant, married, financially secure, and successful on her own terms. A month later, none of that was true.
+				Levy picks you up and hurls you through the story of how she built an unconventional life and then watched it fall apart with astonishing speed. Like much of her generation, she was raised to resist traditional rules--about work, about love, and about womanhood.
+				"I wanted what we all want: everything. We want a mate who feels like family and a lover who is exotic, surprising. We want to be youthful adventurers and middle-aged mothers. We want intimacy and autonomy, safety and stimulation, reassurance and novelty, coziness and thrills. But we can't have it all."
+				In this memoir, Levy chronicles the adventure and heartbreak of being "a woman who is free to do whatever she chooses." Her own story of resilience becomes an unforgettable portrait of the shifting forces in our culture, of what has changed--and of what is eternal.
+			</Synopsis>
+		</Info>
+		<Price>797.34</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>54</ID>
+		<Info>
+			<Title>How To Be a Bawse</Title>
+			<Author>
+				<FName>Lilly</FName>
+				<MInit/>
+				<LName>Singh</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Ballantine Books</PublicationHouse>
+				<PublishingDate>2017-03-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>42528</RegistrantElem>
+					<PubElem>646</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>272</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				From actress, comedian, and YouTube sensation Lilly Singh (aka ||Superwoman||) comes the definitive guide to being a bawse, a person who exudes confidence, reaches goals, gets hurt efficiently, and smiles genuinely because they've fought through it all and made it out the other side.
+				Told in her hilarious, bold voice that's inspired over nine million fans, and using stories from her own life to illustrate her message, Lilly proves that there are no shortcuts to success.
+				WARNING: This book does not include hopeful thoughts, lucky charms, and cute quotes. That's because success, happiness, and everything else you want in life needs to be fought for, not wished for. In Lilly's world, there are no escalators, only stairs. Get ready to climb.
+			</Synopsis>
+		</Info>
+		<Price>745.13</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>55</ID>
+		<Info>
+			<Title>South and West: From a Notebook</Title>
+			<Author>
+				<FName>Joan</FName>
+				<MInit/>
+				<LName>Didion</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Knopf Publishing Group</PublicationHouse>
+				<PublishingDate>2017-03-17</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>52473</RegistrantElem>
+					<PubElem>279</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>160</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				From the best-selling author of the National Book Award-winning The Year of Magical Thinking two extended excerpts from her never-before-seen notebooks--writings that offer an illuminating glimpse into the mind and process of a legendary writer.
+				Joan Didion has always kept notebooks: of overheard dialogue, observations, interviews, drafts of essays and articles--and here is one such draft that traces a road trip she took with her husband, John Gregory Dunne, in June 1970, through Louisiana, Mississippi, and Alabama. She interviews prominent local figures, describes motels, diners, a deserted reptile farm, a visit with Walker Percy, a ladies' brunch at the Mississippi Broadcasters' Convention. She writes about the stifling heat, the almost viscous pace of life, the sulfurous light, and the preoccupation with race, class, and heritage she finds in the small towns they pass through.
+				And from a different notebook: the "California Notes" that began as an assignment from Rolling Stone on the Patty Hearst trial of 1976. Though Didion never wrote the piece, watching the trial and being in San Francisco triggered thoughts about the city, its social hierarchy, the Hearsts, and her own upbringing in Sacramento. Here, too, is the beginning of her thinking about the West, its landscape, the western women who were heroic for her, and her own lineage, all of which would appear later in her acclaimed 2003 book, Where I Was From.
+			</Synopsis>
+		</Info>
+		<Price>563.59</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>56</ID>
+		<Info>
+			<Title>Who Thought This Was a Good Idea?: And Other Questions You Should Have Answers to When You Work in the White House</Title>
+			<Author>
+				<FName>Alyssa</FName>
+				<MInit/>
+				<LName>Mastromonaco</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Twelve</PublicationHouse>
+				<PublishingDate>2017-03-21</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>45558</RegistrantElem>
+					<PubElem>822</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>256</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				If your funny older sister were the former deputy chief of staff to President Barack Obama, her behind-the-scenes political memoir would look something like this...
+				Alyssa Mastromonaco worked for Barack Obama for almost a decade, and long before his run for president. From the then-senator's early days in Congress to his years in the Oval Office, she made Hope and Change happen through blood, sweat, tears, and lots of briefing binders.
+				But for every historic occasion-meeting the queen at Buckingham Palace, bursting in on secret climate talks, or nailing a campaign speech in a hailstorm-there were dozens of less-than-perfect moments when it was up to Alyssa to save the day. Like the time she learned the hard way that there aren't nearly enough bathrooms at the Vatican.
+				Full of hilarious, never-before-told stories, WHO THOUGHT THIS WAS A GOOD IDEA? is an intimate portrait of a president, a book about how to get stuff done, and the story of how one woman challenged, again and again, what a "White House official" is supposed to look like. Here Alyssa shares the strategies that made her successful in politics and beyond, including the importance of confidence, the value of not being a jerk, and why ultimately everything comes down to hard work (and always carrying a spare tampon).
+				Told in a smart, original voice and topped off with a couple of really good cat stories, WHO THOUGHT THIS WAS A GOOD IDEA? is a promising debut from a savvy political star.
+			</Synopsis>
+		</Info>
+		<Price>823.77</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>57</ID>
+		<Info>
+			<Title>Word by Word: The Secret Life of Dictionaries</Title>
+			<Author>
+				<FName>Kory</FName>
+				<MInit/>
+				<LName>Stamper</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Pantheon Books</PublicationHouse>
+				<PublishingDate>2017-03-14</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>10187</RegistrantElem>
+					<PubElem>094</PubElem>
+					<CheckDigit>5</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>320</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Do you have strong feelings about the word "irregardless"? Have you ever tried to define the word "is"? This account of how dictionaries are made is for you word mavens.
+				Many of us take dictionaries for granted, and few may realize that the process of writing dictionaries is, in fact, as lively and dynamic as language itself. With sharp wit and irreverence, Kory Stamper cracks open the complex, obsessive world of lexicography, from the agonizing decisions about what to define and how to do it, to the knotty questions of usage in an ever-changing language. She explains why small words are the most difficult to define, how it can take nine months to define a single word, and how our biases about language and pronunciation can have tremendous social influence. And along the way, she reveals little-known surprises--for example, the fact that "OMG" was first used in a letter to Winston Churchill in 1917.
+				Word by Word brings to life the hallowed halls (and highly idiosyncratic cubicles) of Merriam-Webster, a startlingly rich world inhabited by quirky and erudite individuals who quietly shape the way we communicate.
+			</Synopsis>
+		</Info>
+		<Price>729.67</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>58</ID>
+		<Info>
+			<Title>No One Cares About Crazy People: The Chaos and Heartbreak of Mental Health in America</Title>
+			<Author>
+				<FName>Ron</FName>
+				<MInit/>
+				<LName>Powers</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Hachette Books</PublicationHouse>
+				<PublishingDate>2017-03-21</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>31634</RegistrantElem>
+					<PubElem>117</PubElem>
+					<CheckDigit>2</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>384</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				New York Times-bestselling author Ron Powers offers a searching, richly researched narrative of the social history of mental illness in America paired with the deeply personal story of his two sons' battles with schizophrenia.
+				From the centuries of torture of "lunatiks" at Bedlam Asylum to the infamous eugenics era to the follies of the anti-psychiatry movement to the current landscape in which too many families struggle alone to manage afflicted love ones, Powers limns our fears and myths about mental illness and the fractured public policies that have resulted.
+				Braided with that history is the moving story of Powers's beloved son Kevin--spirited, endearing, and gifted--who triumphed even while suffering from schizophrenia until finally he did not, and the story of his courageous surviving son Dean, who is also schizophrenic.
+				A blend of history, biography, memoir, and current affairs ending with a consideration of where we might go from here, this is a thought-provoking look at a dreaded illness that has long been misunderstood.
+			</Synopsis>
+		</Info>
+		<Price>949.62</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>59</ID>
+		<Info>
+			<Title>Wild: From Lost to Found on the Pacific Crest Trail</Title>
+			<Author>
+				<FName>Cheryl</FName>
+				<MInit/>
+				<LName>Strayed</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Knopf</PublicationHouse>
+				<PublishingDate>2012-03-20</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>30759</RegistrantElem>
+					<PubElem>273</PubElem>
+					<CheckDigit>6</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>315</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				At twenty-two, Cheryl Strayed thought she had lost everything. In the wake of her mother's death, her family scattered and her own marriage was soon destroyed. Four years later, with nothing more to lose, she made the most impulsive decision of her life. With no experience or training, driven only by blind will, she would hike more than a thousand miles of the Pacific Crest Trail from the Mojave Desert through California and Oregon to Washington State -- and she would do it alone.
+				Told with suspense and style, sparkling with warmth and humor, Wild powerfully captures the terrors and pleasures of one young woman forging ahead against all odds on a journey that maddened, strengthened, and ultimately healed her.
+			</Synopsis>
+		</Info>
+		<Price>627.43</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Non-fiction">
+	<ID>60</ID>
+		<Info>
+			<Title>When Breath Becomes Air</Title>
+			<Author>
+				<FName>Paul</FName>
+				<MInit/>
+				<LName>Kalanithi</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Random House</PublicationHouse>
+				<PublishingDate>2016-01-19</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>81298</RegistrantElem>
+					<PubElem>841</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>208</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				For readers of Atul Gawande, Andrew Solomon, and Anne Lamott, a profoundly moving, exquisitely observed memoir by a young neurosurgeon faced with a terminal cancer diagnosis who attempts to answer the question What makes a life worth living?
+				At the age of thirty-six, on the verge of completing a decade's worth of training as a neurosurgeon, Paul Kalanithi was diagnosed with stage IV lung cancer. One day he was a doctor making a living treating the dying, and the next he was a patient struggling to live. Just like that, the future he and his wife had imagined evaporated. When Breath Becomes Air, which features a Foreword by Dr. Abraham Verghese and an Epilogue by Kalanithi's wife, Lucy, chronicles Kalanithi's transformation from a naive medical student "possessed," as he wrote, "by the question of what, given that all organisms die, makes a virtuous and meaningful life" into a young neurosurgeon at Stanford, guiding patients toward a deeper understanding of death and illness, and finally into a patient and a new father to a baby girl, confronting his own mortality.
+				What makes life worth living in the face of death? What do you do when the future, no longer a ladder toward your goals in life, flattens out into a perpetual present? What does it mean to have a child, to nurture a new life as another fades away? These are some of the questions Kalanithi wrestles with in this profoundly moving, exquisitely observed memoir.
+				Paul Kalanithi died in March 2015, while working on this book, yet his words live on as a guide and a gift to us all. "I began to realize that coming face to face with my own mortality, in a sense, had changed nothing and everything," he wrote. "Seven words from Samuel Beckett began to repeat in my head: 'I can't go on. I'll go on.'" When Breath Becomes Air is an unforgettable, life-affirming reflection on the challenge of facing mortality and on the relationship between doctor and patient, from a gifted writer who became both.
+			</Synopsis>
+		</Info>
+		<Price>999.08</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>61</ID>
+		<Info>
+			<Title>Nemesis</Title>
+			<Author>
+				<FName>Brendan</FName>
+				<MInit/>
+				<LName>Reichs</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>G.P. Putnam's Sons Books for Young Readers</PublicationHouse>
+				<PublishingDate>2017-03-21</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>39954</RegistrantElem>
+					<PubElem>493</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>443</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				He killed me. He killed me not. He killed me.
+				It's been happening since Min was eight. Every two years, on her birthday, a strange man finds her and murders her in cold blood. But hours later, she wakes up in a clearing just outside her tiny Idaho hometown -- alone, unhurt, and with all evidence of the horrifying crime erased.
+				Across the valley, Noah just wants to be like everyone else. But he's not. Nightmares of murder and death plague him, though he does his best to hide the signs. But when the world around him begins to spiral toward panic and destruction, Noah discovers that people have been lying to him his whole life. Everything changes in an eye blink.
+				For the planet has a bigger problem. The Anvil, an enormous asteroid threatening all life on Earth, leaves little room for two troubled teens. Yet on her sixteenth birthday, as she cowers in her bedroom, hoping not to die for the fifth time, Min has had enough. She vows to discover what is happening in Fire Lake and uncovers a lifetime of lies: a vast conspiracy involving the sixty-four students of her sophomore class, one that may be even more sinister than the murders.
+			</Synopsis>
+		</Info>
+		<Price>549.73</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>62</ID>
+		<Info>
+			<Title>The Roanoke Girls</Title>
+			<Author>
+				<FName>Amy</FName>
+				<MInit/>
+				<LName>Engel</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Crown</PublicationHouse>
+				<PublishingDate>2017-03-07</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>10190</RegistrantElem>
+					<PubElem>666</PubElem>
+					<CheckDigit>8</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>279</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Roanoke girls never last long around here. In the end, we either run or we die. 
+				After her mother's suicide, fifteen year-old Lane Roanoke came to live with her grandparents and fireball cousin, Allegra, on their vast estate in rural Kansas. Lane knew little of her mother's mysterious family, but she quickly embraced life as one of the rich and beautiful Roanoke girls. But when she discovered the dark truth at the heart of the family, she ran fast and far away.
+				Eleven years later, Lane is adrift in Los Angeles when her grandfather calls to tell her Allegra has gone missing. Did she run too? Or something worse? Unable to resist his pleas, Lane returns to help search, and to ease her guilt at having left Allegra behind. Her homecoming may mean a second chance with the boyfriend whose heart she broke that long ago summer. But it also means facing the devastating secret that made her flee, one she may not be strong enough to run from again.
+				As it weaves between Lane's first Roanoke summer and her return, The Roanoke Girls shocks and tantalizes, twisting its way through revelation after mesmerizing revelation, exploring the secrets families keep and the fierce and terrible love that both binds them together and rips them apart.
+			</Synopsis>
+		</Info>
+		<Price>658.98</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>63</ID>
+		<Info>
+			<Title>The Secrets You Keep</Title>
+			<Author>
+				<FName>Kate</FName>
+				<MInit/>
+				<LName>White</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Harper Paperbacks</PublicationHouse>
+				<PublishingDate>2017-03-21</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06244</RegistrantElem>
+					<PubElem>885</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>353</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				From the New York Times bestselling author of The Wrong Man and Eyes on You comes a harrowing new psychological thriller about a successful self-help author who suddenly finds her life spiraling dangerously out of control.
+				What would you do if you realized that your new husband, a man you adore, is keeping secrets from you -- secrets with terrifying consequences?
+				Bryn Harper, an accomplished self-help author, already has plenty to deal with. She's still recovering from a devastating car accident that has left her haunted by recurring, smoke-filled nightmares. Worse still, she can't shake the ominous feeling her dreams contain a warning.
+				In the beginning, Bryn's husband Guy couldn't have been more supportive. But after moving into a new house together, disturbing incidents occur and Guy grows evasive, secretive. What the hell is going on, she wonders? Then, a woman hired to cater their dinner party is brutally murdered.
+				As Bryn's world unravels -- and yet another woman in town is slain -- she must summon her old strength to find answers and protect her own life. Her nightmares may in fact hold the key to unlocking the truth and unmasking the murderer.
+				With unexpected, riveting twists, The Secrets You Keep is an utterly compelling psychological thriller that once again showcases Kate White's extraordinary storytelling talent.
+			</Synopsis>
+		</Info>
+		<Price>438.49</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>64</ID>
+		<Info>
+			<Title>Give It Back</Title>
+			<Author>
+				<FName>Danielle</FName>
+				<MInit/>
+				<LName>Esplin</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Black Rose Writing</PublicationHouse>
+				<PublishingDate>2017-03-02</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>69259</RegistrantElem>
+					<PubElem>044</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>302</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				This novel follows three characters: Lorraine, Lexy, and Ella.
+				Lorraine:
+				Not long ago, Lorraine lost her husband to another woman. She thought that was the worst thing that could happen to her, but soon she realizes it's just the beginning of an everlasting nightmare.
+				Lexy:
+				Lexy, an au pair from London, moves to Seattle to help Lorraine with her infant son. But she didn't come for the child -- she came for something else.
+				Ella:
+				When Ella receives a call from her sister, Lorraine, who begs her to leave San Diego to spend time with her, she decides to take a few days off from work to visit her. Frightened to see how much Lorraine has weakened since her diagnosis eight months ago, she packs a bag and heads to Seattle with a foreboding feeling that this might be the last time she sees Lorraine.
+				But on her way to the airport, she learns that something shocking has happened since she last spoke with Lorraine and now. To make matters worse, once Ella arrives in Seattle, Lorraine's story keeps changing, making Ella question how reliable her sister really is.
+				Soon Ella is entangled in a mysterious investigation, and more so, in the lives of everyone involved. She realizes not only that she won't go home anytime soon but also that she'll never look at others the same way she did before.
+			</Synopsis>
+		</Info>
+		<Price>549.73</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>65</ID>
+		<Info>
+			<Title>Girl in Disguise</Title>
+			<Author>
+				<FName>Greer</FName>
+				<MInit/>
+				<LName>Macallister</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Sourcebooks Landmark</PublicationHouse>
+				<PublishingDate>2017-03-21</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>49263</RegistrantElem>
+					<PubElem>522</PubElem>
+					<CheckDigit>2</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>308</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				For the first female Pinkerton detective, respect is hard to come by. Danger, however, is not.
+				In the tumultuous years of the Civil War, the streets of Chicago offer a woman mostly danger and ruin-unless that woman is Kate Warne, the first female Pinkerton detective and a desperate widow with a knack for manipulation.
+				Descending into undercover operations, Kate is able to infiltrate the seedy side of the city in ways her fellow detectives can't. She's a seductress, an exotic foreign medium, or a rich train passenger, all depending on the day and the robber, thief, or murderer she's been assigned to nab.
+				Inspired by the real story of Kate Warne, this spirited novel follows the detective's rise during one of the nation's greatest times of crisis, bringing to life a fiercely independent woman whose forgotten triumphs helped sway the fate of the country.
+			</Synopsis>
+		</Info>
+		<Price>682.50</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>66</ID>
+		<Info>
+			<Title>The Twelve Lives of Samuel Hawley</Title>
+			<Author>
+				<FName>Hannah</FName>
+				<MInit/>
+				<LName>Tinti</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Dial Press</PublicationHouse>
+				<PublishingDate>2017-03-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>81298</RegistrantElem>
+					<PubElem>988</PubElem>
+					<CheckDigit>5</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>480</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				A father protects his daughter from the legacy of his past and the truth about her mother's death in this thrilling new novel from the prize-winning author of The Good Thief.
+				After years spent living on the run, Samuel Hawley moves with his teenage daughter, Loo, to Olympus, Massachusetts. There, in his late wife's hometown, Hawley finds work as a fisherman, while Loo struggles to fit in at school and grows curious about her mother's mysterious death. Haunting them both are twelve scars Hawley carries on his body, from twelve bullets in his criminal past; a past that eventually spills over into his daughter's present, until together they must face a reckoning yet to come. This father-daughter epic weaves back and forth through time and across America, from Alaska to the Adirondacks.
+				Both a coming-of-age novel and a literary thriller, The Twelve Lives of Samuel Hawley explores what it means to be a hero, and the cost we pay to protect the people we love most.
+			</Synopsis>
+		</Info>
+		<Price>806.79</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>67</ID>
+		<Info>
+			<Title>Ill Will</Title>
+			<Author>
+				<FName>Dan</FName>
+				<MInit/>
+				<LName>Chaon</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Ballantine Books</PublicationHouse>
+				<PublishingDate>2017-03-07</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>34547</RegistrantElem>
+					<PubElem>604</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>480</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Two sensational unsolved crimes -- one in the past, another in the present -- are linked by one man's memory and self-deception in this chilling novel of literary suspense from National Book Award finalist Dan Chaon.
+				"We are always telling a story to ourselves, about ourselves," Dustin Tillman likes to say. It's one of the little mantras he shares with his patients, and it's meant to be reassuring. But what if that story is a lie?
+				A psychologist in suburban Cleveland, Dustin is drifting through his forties when he hears the news: His adopted brother, Rusty, is being released from prison. Thirty years ago, Rusty received a life sentence for the massacre of Dustin's parents, aunt, and uncle. The trial came to symbolize the 1980s hysteria over Satanic cults; despite the lack of physical evidence, the jury believed the outlandish accusations Dustin and his cousin made against Rusty. Now, after DNA analysis has overturned the conviction, Dustin braces for a reckoning.
+				Meanwhile, one of Dustin's patients gets him deeply engaged in a string of drowning deaths involving drunk college boys. At first Dustin dismisses talk of a serial killer as paranoid thinking, but as he gets wrapped up in their amateur investigation, Dustin starts to believe that there's more to the deaths than coincidence. Soon he becomes obsessed, crossing all professional boundaries -- and putting his own family in harm's way.
+				From one of today's most renowned practitioners of literary suspense, Ill Will is an intimate thriller about the failures of memory and the perils of self-deception. In Dan Chaon's nimble, chilling prose, the past looms over the present, turning each into a haunted place.
+			</Synopsis>
+		</Info>
+		<Price>995.10</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>68</ID>
+		<Info>
+			<Title>Elementary, She Read</Title>
+			<Author>
+				<FName>Vicki</FName>
+				<MInit/>
+				<LName>Delany</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Crooked Lane Books</PublicationHouse>
+				<PublishingDate>2017-03-14</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>68331</RegistrantElem>
+					<PubElem>096</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>308</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Gemma Doyle, a transplanted Englishwoman, has returned to the quaint town of West London on Cape Cod to manage her Great Uncle Arthur's Sherlock Holmes Bookshop and Emporium. The shop--located at 222 Baker Street--specializes in the Holmes canon and pastiche, and is also the home of Moriarty the cat. When Gemma finds a rare and potentially valuable magazine containing the first Sherlock Homes story hidden in the bookshop, she and her friend Jayne (who runs the adjoining Mrs. Hudson's Tea Room) set off to find the owner, only to stumble upon a dead body.
+				The highly perceptive Gemma is the police's first suspect, so she puts her consummate powers of deduction to work to clear her name, investigating a handsome rare books expert, the dead woman's suspiciously unmoved son, and a whole family of greedy characters desperate to cash in on their inheritance. But when Gemma and Jayne accidentally place themselves at a second murder scene, it's a race to uncover the truth before the detectives lock them up for good.
+				Fans of Sherlock Holmes will delight in the sleuthing duo of Gemma and Jayne in Elementary, She Read, the clever and captivating series debut by nationally bestselling author Vicki Delany.
+			</Synopsis>
+		</Info>
+		<Price>866.57</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	<ID>69</ID>
+		<Info>
+			<Title>A Psalm for Lost Girls</Title>
+			<Author>
+				<FName>Katie</FName>
+				<MInit/>
+				<LName>Bayerl</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>G.P. Putnam's Sons Books for Young Readers</PublicationHouse>
+				<PublishingDate>2017-03-14</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>39954</RegistrantElem>
+					<PubElem>525</PubElem>
+					<CheckDigit>2</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>363</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Tess da Costa is a saint, a hand-to-god, miracle-producing saint. At least that's what the people in her hometown of New Avon, Massachusetts, seem to believe. And when Tess suddenly and tragically passes away, her small city begins feverishly petitioning the Pope to make Tess's sainthood official. Tess's mother is ecstatic over the fervor, while her sister Callie, the one who knew Tess best, is disgusted -- overcome with the feeling that her sister is being stolen from her all over again.
+				The fervor for Tess's sainthood only grows when Ana Langone, a local girl who's been missing for six months, is found alive at the foot of one of Tess's shrines. It's the final straw for Callie.
+				With the help of Tess's secret boyfriend Danny, Callie's determined to prove that Tess was something far more important than a saint; she was her sister, her best friend and a girl in love with a boy. But Callie's investigation uncovers much more than she bargained for: a hidden diary, old family secrets, and even the disturbing truth behind Ana's kidnapping.
+			</Synopsis>
+		</Info>
+		<Price>597.57</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	    <ID>70</ID>
+		<Info>
+			<Title>See What I Have Done</Title>
+			<Author>
+				<FName>Sarah</FName>
+				<MInit/>
+				<LName>Schmidt</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Atlantic Monthly Press</PublicationHouse>
+				<PublishingDate>2017-08-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>80212</RegistrantElem>
+					<PubElem>659</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>324</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				In this riveting debut novel, See What I Have Done, Sarah Schmidt recasts one of the most fascinating murder cases of all time into an intimate story of a volatile household and a family devoid of love.
+				On the morning of August 4, 1892, Lizzie Borden calls out to her maid: Someone's killed Father. The brutal ax-murder of Andrew and Abby Borden in their home in Fall River, Massachusetts, leaves little evidence and many unanswered questions. While neighbors struggle to understand why anyone would want to harm the respected Bordens, those close to the family have a different tale to tell;of a father with an explosive temper; a spiteful stepmother; and two spinster sisters, with a bond even stronger than blood, desperate for their independence.
+				As the police search for clues, Emma comforts an increasingly distraught Lizzie whose memories of that morning flash in scattered fragments. Had she been in the barn or the pear arbor to escape the stifling heat of the house? When did she last speak to her stepmother? Were they really gone and would everything be better now? Shifting among the perspectives of the unreliable Lizzie, her older sister Emma, the housemaid Bridget, and the enigmatic stranger Benjamin, the events of that fateful day are slowly revealed through a high-wire feat of storytelling.
+			</Synopsis>
+		</Info>
+		<Price>825.09</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+    	<ID>71</ID>
+		<Info>
+			<Title>The Da Vinci Code</Title>
+			<Author>
+				<FName>Dan</FName>
+				<MInit/>
+				<LName>Brown</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Anchor</PublicationHouse>
+				<PublishingDate>2006-03-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>30727</RegistrantElem>
+					<PubElem>767</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>480</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries unveiled at last.
+				While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci -- clues visible for all to see and yet ingeniously disguised by the painter.
+				Even more startling, the late curator was involved in the Priory of Sion -- a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci -- and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle -- while avoiding the faceless adversary who shadows their every move -- the explosive, ancient truth will be lost forever.
+			</Synopsis>
+		</Info>
+		<Price>248.88</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+    	<ID>72</ID>
+		<Info>
+			<Title>The Girl with the Dragon Tattoo</Title>
+			<Author>
+				<FName>Stieg</FName>
+				<MInit/>
+				<LName>Larsson</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Knopf</PublicationHouse>
+				<PublishingDate>2008-09-16</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>30726</RegistrantElem>
+					<PubElem>975</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>480</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				A sensation across Europe -- millions of copies sold.
+				A spellbinding amalgam of murder mystery, family saga, love story, and financial intrigue.
+				It's about the disappearance forty years ago of Harriet Vanger, a young scion of one of the wealthiest families in Sweden . . . and about her octogenarian uncle, determined to know the truth about what he believes was her murder.
+				It's about Mikael Blomkvist, a crusading journalist recently at the wrong end of a libel case, hired to get to the bottom of Harriet's disappearance . . . and about Lisbeth Salander, a twenty-four-year-old pierced and tattooed genius hacker possessed of the hard-earned wisdom of someone twice her age -- and a terrifying capacity for ruthlessness to go with it -- who assists Blomkvist with the investigation. This unlikely team discovers a vein of nearly unfathomable iniquity running through the Vanger family, astonishing corruption in the highest echelons of Swedish industrialism -- and an unexpected connection between themselves.
+				It's a contagiously exciting, stunningly intelligent novel about society at its most hidden, and about the intimate lives of a brilliantly realized cast of characters, all of them forced to face the darker aspects of their world and of their own lives.
+			</Synopsis>
+		</Info>
+		<Price>819.95</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+    	<ID>73</ID>
+		<Info>
+			<Title>The Silence of the Lambs</Title>
+			<Author>
+				<FName>Thomas</FName>
+				<MInit/>
+				<LName>Harris</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>St. Martin's Griffin</PublicationHouse>
+				<PublishingDate>1998-09-15</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>31219</RegistrantElem>
+					<PubElem>526</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>352</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				As part of the search for a serial murderer nicknames "Buffalo Bill," FBI trainee Clarice Starling is given an assignment. She must visit a man confined to a high-security facility for the criminally insane and interview him.
+				That man, Dr. Hannibal Lecter, is a former psychiatrist with unusual tastes and an intense curiosity about the darker corners of the mind. His intimate understanding of the killer and of Clarice herself form the core of Thomas Harris' The Silence of the Lambs--an unforgettable classic of suspense fiction.
+			</Synopsis>
+		</Info>
+		<Price>368.19</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+    	<ID>74</ID>
+		<Info>
+			<Title>The Bourne Identity</Title>
+			<Author>
+				<FName>Robert</FName>
+				<MInit/>
+				<LName>Ludlum</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Bantam</PublicationHouse>
+				<PublishingDate>2010-01-05</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>55359</RegistrantElem>
+					<PubElem>354</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>608</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				His memory is a blank. His bullet-ridden body was fished from the Mediterranean Sea. His face has been altered by plastic surgery. A frame of microfilm has been surgically implanted in his hip. Even his name is a mystery. Marked for death, he is racing for survival through a bizarre world of murderous conspirators -- led by Carlos, the world's most dangerous assassin. Who is Jason Bourne? The answer may kill him.
+			</Synopsis>
+		</Info>
+		<Price>440.53</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Mystery/Thriller">
+	    <ID>75</ID>
+		<Info>
+			<Title>The Shining</Title>
+			<Author>
+				<FName>Stephen</FName>
+				<MInit/>
+				<LName>King</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Anchor</PublicationHouse>
+				<PublishingDate>2012-06-26</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>30774</RegistrantElem>
+					<PubElem>365</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>688</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Jack Torrance's new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he'll have plenty of time to spend reconnecting with his family and working on his writing. But as the harsh winter weather sets in, the idyllic location feels ever more remote . . . and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.
+			</Synopsis>
+		</Info>
+		<Price>403.57</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+		<ID>76</ID>
+		<Info>
+			<Title>The Hunger Games</Title>
+			<Author>
+				<FName>Suzanne</FName>
+				<MInit/>
+				<LName>Collins</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Scholastic Press</PublicationHouse>
+				<PublishingDate>2010-07-03</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>43902</RegistrantElem>
+					<PubElem>352</PubElem>
+					<CheckDigit>8</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>384</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. Long ago the districts waged war on the Capitol and were defeated. As part of the surrender terms, each district agreed to send one boy and one girl to appear in an annual televised event called, "The Hunger Games," a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games. The terrain, rules, and level of audience participation may change but one thing is constant: kill or be killed.
+			</Synopsis>
+		</Info>
+		<Price>334.70</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+    	<ID>77</ID>
+		<Info>
+			<Title>Catching Fire</Title>
+			<Author>
+				<FName>Suzanne</FName>
+				<MInit/>
+				<LName>Collins</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Scholastic Press</PublicationHouse>
+				<PublishingDate>2013-06-04</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>54558</RegistrantElem>
+					<PubElem>617</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>400</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Against all odds, Katniss Everdeen has won the annual Hunger Games with fellow district tribute Peeta Mellark. But it was a victory won by defiance of the Capitol and their harsh rules. Katniss and Peeta should be happy. After all, they have just won for themselves and their families a life of safety and plenty. But there are rumors of rebellion among the subjects, and Katniss and Peeta, to their horror, are the faces of that rebellion. The Capitol is angry. The Capitol wants revenge.
+			</Synopsis>
+		</Info>
+		<Price>395.41</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>78</ID>
+		<Info>
+			<Title>Mockingjay</Title>
+			<Author>
+				<FName>Suzanne</FName>
+				<MInit/>
+				<LName>Collins</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Scbolastic Press</PublicationHouse>
+				<PublishingDate>2014-02-25</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>54566</RegistrantElem>
+					<PubElem>326</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>400</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				"My name is Katniss Everdeen. Why am I not dead? I should be dead."
+				Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. There are rebels. There are new leaders. A revolution is unfolding.
+				District 13 has come out of the shadows and is plotting to overthrow the Capitol. Though she's long been a part of the revolution, Katniss hasn't known it. Now it seems that everyone has had a hand in the carefully laid plans but her.
+				The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay - no matter what the cost.
+			</Synopsis>
+		</Info>
+		<Price>444.33</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>79</ID>
+		<Info>
+			<Title>Divergent</Title>
+			<Author>
+				<FName>Veronica</FName>
+				<MInit/>
+				<LName>Roth</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Katherine Tegen Books</PublicationHouse>
+				<PublishingDate>2014-09-30</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06238</RegistrantElem>
+					<PubElem>724</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>576</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				One choice can transform you. Beatrice Prior's society is divided into five factions -- Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). Beatrice must choose between staying with her Abnegation family and transferring factions. Her choice will shock her community and herself. But the newly christened Tris also has a secret, one she's determined to keep hidden, because in this world, what makes you different makes you dangerous.
+			</Synopsis>
+		</Info>
+		<Price>395.93</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+    	<ID>80</ID>
+		<Info>
+			<Title>Insurgent</Title>
+			<Author>
+				<FName>Veronica</FName>
+				<MInit/>
+				<LName>Roth</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Katherine Tegen Books</PublicationHouse>
+				<PublishingDate>2015-01-20</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06202</RegistrantElem>
+					<PubElem>405</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>592</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				One choice can destroy you. Veronica Roth's second #1 New York Times bestseller continues the dystopian thrill ride that began in Divergent. A hit with both teen and adult readers, Insurgent is the action-packed, emotional adventure that inspired the major motion picture starring Shailene Woodley, Theo James, Ansel Elgort, and Octavia Spencer.
+				The paperback edition includes special bonus content by Veronica Roth.
+				As war surges in the factions of dystopian Chicago all around her, Tris attempts to save those she loves -- and herself -- while grappling with haunting questions of grief and forgiveness, identity and loyalty, politics and love.
+			</Synopsis>
+		</Info>
+		<Price>547.39</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>81</ID>
+		<Info>
+			<Title>Allegiant</Title>
+			<Author>
+				<FName>Veronica</FName>
+				<MInit/>
+				<LName>Roth</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Katherine Tegene Books</PublicationHouse>
+				<PublishingDate>2016-01-19</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06202</RegistrantElem>
+					<PubElem>407</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>592</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				One choice will define you. What if your whole world was a lie? What if a single revelation -- like a single choice -- changed everything? What if love and loyalty made you do things you never expected?
+				Told from a riveting dual perspective, this third installment in the series follows Tris and Tobias as they battle to comprehend the complexities of human nature -- and their selves -- while facing impossible choices of courage, allegiance, sacrifice, and love.
+			</Synopsis>
+		</Info>
+		<Price>396.40</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>82</ID>
+		<Info>
+			<Title>The Maze Runner</Title>
+			<Author>
+				<FName>James</FName>
+				<MInit/>
+				<LName>Dashner</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Delacorte Press</PublicationHouse>
+				<PublishingDate>2010-08-24</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>38573</RegistrantElem>
+					<PubElem>795</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>375</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				When Thomas wakes up in the lift, the only thing he can remember is his name. He's surrounded by strangers -- boys whose memories are also gone.
+				Outside the towering stone walls that surround them is a limitless, ever-changing maze. It's the only way out -- and no one's ever made it through alive.
+				Then a girl arrives. The first girl ever. And the message she delivers is terrifying: Remember. Survive. Run.
+			</Synopsis>
+		</Info>
+		<Price>325.25</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>83</ID>
+		<Info>
+			<Title>The Scorch Trials</Title>
+			<Author>
+				<FName>James</FName>
+				<MInit/>
+				<LName>Dashner</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Delacorte Press</PublicationHouse>
+				<PublishingDate>2011-09-13</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>38573</RegistrantElem>
+					<PubElem>876</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>400</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Thomas was sure that escape from the Maze would mean freedom for him and the Gladers. But WICKED isn't done yet. Phase Two has just begun. The Scorch.
+				The Gladers have two weeks to cross through the Scorch -- the most burned-out section of the world. And WICKED has made sure to adjust the variables and stack the odds against them.
+				There are others now. Their survival depends on the Gladers' destruction -- and they're determined to survive.
+				Friendships will be tested. Loyalties will be broken. All bets are off.
+			</Synopsis>
+		</Info>
+		<Price>457.05</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>84</ID>
+		<Info>
+			<Title>The Death Cure</Title>
+			<Author>
+				<FName>James</FName>
+				<MInit/>
+				<LName>Dashner</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Delacorte Press</PublicationHouse>
+				<PublishingDate>2013-01-08</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>38573</RegistrantElem>
+					<PubElem>878</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>368</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				It's the end of the line.
+				WICKED has taken everything from Thomas: his life, his memories, and now his only friends;the Gladers. But it's finally over. The trials are complete, after one final test.
+				Will anyone survive?
+				What WICKED doesn't know is that Thomas remembers far more than they think. And it's enough to prove that he can't believe a word of what they say.
+				The truth will be terrifying.
+				Thomas beat the Maze. He survived the Scorch. He'll risk anything to save his friends. But the truth might be what ends it all.
+				The time for lies is over.
+			</Synopsis>
+		</Info>
+		<Price>375.36</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>85</ID>
+		<Info>
+			<Title>The 5th Wave</Title>
+			<Author>
+				<FName>Rick</FName>
+				<MInit/>
+				<LName>Yancey</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Speak</PublicationHouse>
+				<PublishingDate>2015-02-10</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>14242</RegistrantElem>
+					<PubElem>583</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>512</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Now, it's the dawn of the 5th wave, and on a lonely stretch of highway, Cassie runs from Them. The beings who only look human, who roam the countryside killing anyone they see. Who have scattered Earth's last survivors. To stay alone is to stay alive, Cassie believes, until she meets Evan Walker. Beguiling and mysterious, Evan Walker may be Cassie's only hope for rescuing her brother--or even saving herself. But Cassie must choose: between trust and despair, between defiance and surrender, between life and death. To give up or to get up.
+			</Synopsis>
+		</Info>
+		<Price>249.84</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>86</ID>
+		<Info>
+			<Title>The Infinite Sea</Title>
+			<Author>
+				<FName>Rick</FName>
+				<MInit/>
+				<LName>Yancey</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Speak</PublicationHouse>
+				<PublishingDate>2015-11-03</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>10199</RegistrantElem>
+					<PubElem>698</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>352</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				How do you rid the Earth of seven billion humans? Rid the humans of their humanity.
+				Surviving the first four waves was nearly impossible. Now Cassie Sullivan finds herself in a new world, a world in which the fundamental trust that binds us together is gone. As the 5th Wave rolls across the landscape, Cassie, Ben, and Ringer are forced to confront the Others; ultimate goal: the extermination of the human race.
+				Cassie and her friends haven't seen the depths to which the Others will sink, nor have the Others seen the heights to which humanity will rise, in the ultimate battle between life and death, hope and despair, love and hate.
+			</Synopsis>
+		</Info>
+		<Price>249.84</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>87</ID>
+		<Info>
+			<Title>The Last Star</Title>
+			<Author>
+				<FName>Rick</FName>
+				<MInit/>
+				<LName>Yancey</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Speak</PublicationHouse>
+				<PublishingDate>2016-05-24</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>39916</RegistrantElem>
+					<PubElem>243</PubElem>
+					<CheckDigit>5</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>352</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				The enemy is Other. The enemy is us. They're down here, they're up there, they're nowhere. They want the Earth, they want us to have it. They came to wipe us out, they came to save us.
+				But beneath these riddles lies one truth: Cassie has been betrayed. So has Ringer. Zombie. Nugget. And all 7.5 billion people who used to live on our planet. Betrayed first by the Others, and now by ourselves.
+				In these last days, Earth's remaining survivors will need to decide what's more important: saving themselves . . . or saving what makes us human.
+			</Synopsis>
+		</Info>
+		<Price>591.86</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>88</ID>
+		<Info>
+			<Title>Thirteen Reasons Why</Title>
+			<Author>
+				<FName>Jay</FName>
+				<MInit/>
+				<LName>Asher</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Razorbill</PublicationHouse>
+				<PublishingDate>2011-06-14</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>59514</RegistrantElem>
+					<PubElem>188</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>288</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Clay Jensen returns home from school to find a strange package with his name on it lying on his porch. Inside he discovers several cassette tapes recorded by Hannah Baker, his classmate and crush, who committed suicide two weeks earlier. Hannah's voice tells him that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he'll find out why.
+				Clay spends the night crisscrossing his town with Hannah as his guide. He becomes a firsthand witness to Hannah's pain, and as he follows Hannah's recorded words throughout his town, what he discovers changes his life forever.
+			</Synopsis>
+		</Info>
+		<Price>271.73</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>89</ID>
+		<Info>
+			<Title>All the Bright Places</Title>
+			<Author>
+				<FName>Jennifer</FName>
+				<MInit/>
+				<LName>Niven</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Ember</PublicationHouse>
+				<PublishingDate>2016-09-13</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>38575</RegistrantElem>
+					<PubElem>591</PubElem>
+					<CheckDigit>7</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>416</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Theodore Finch is fascinated by death. Every day he thinks of ways he might kill himself, but every day he also searches for, and manages to find, something to keep him here, and alive, and awake.
+				Violet Markey lives for the future, counting the days until graduation, when she can escape her small Indiana town and her aching grief in the wake of her sister's recent death.
+				When Finch and Violet meet on the ledge of the bell tower at school,six stories above the ground, it's unclear who saves whom. Soon it's only with Violet that Finch can be himself. And it's only with Finch that Violet can forget to count away the days and start living them. But as Violet's world grows, Finch's begins to shrink. . . .
+			</Synopsis>
+		</Info>
+		<Price>260.30</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Young Adult">
+	    <ID>90</ID>
+		<Info>
+			<Title>The Hate U Give</Title>
+			<Author>
+				<FName>Angie</FName>
+				<MInit/>
+				<LName>Thomas</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Balzar + Bray</PublicationHouse>
+				<PublishingDate>2017-02-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06249</RegistrantElem>
+					<PubElem>853</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>464</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Sixteen-year-old Starr Carter moves between two worlds: the poor neighborhood where she lives and the fancy suburban prep school she attends. The uneasy balance between these worlds is shattered when Starr witnesses the fatal shooting of her childhood best friend Khalil at the hands of a police officer. Khalil was unarmed.
+				Soon afterward, his death is a national headline. Some are calling him a thug, maybe even a drug dealer and a gangbanger. Protesters are taking to the streets in Khalil’s name. Some cops and the local drug lord try to intimidate Starr and her family. What everyone wants to know is: what really went down that night? And the only person alive who can answer that is Starr.
+				But what Starr does—or does not—say could upend her community. It could also endanger her life.
+			</Synopsis>
+		</Info>
+		<Price>540.62</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>91</ID>
+		<Info>
+			<Title>The World's Religions (Plus)</Title>
+			<Author>
+				<FName>Huston</FName>
+				<MInit/>
+				<LName>Smith</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>HarperOne</PublicationHouse>
+				<PublishingDate>2009-05-12</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>06166</RegistrantElem>
+					<PubElem>018</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>448</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				The World's Religions, by beloved author and pioneering professor Huston Smith (Tales of Wonder), is the definitive classic for introducing the essential elements and teachings of the world's predominant faiths, including Hinduism, Buddhism, Confucianism, Taoism, Judaism, Christianity, Islam, as well as regional native traditions.
+				This revised and updated edition provides sympathetic descriptions of the various traditions, explaining how they work "from the inside," which is a big reason why this cherished classic has sold more than two million copies since it first appeared in 1958.
+			</Synopsis>
+		</Info>
+		<Price>588.59</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>92</ID>
+		<Info>
+			<Title>The Righteous Mind: Why Good People are Divided by Politics and Religion</Title>
+			<Author>
+				<FName>Jonathan</FName>
+				<MInit/>
+				<LName>Haidt</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Vintage</PublicationHouse>
+				<PublishingDate>2013-02-12</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>30745</RegistrantElem>
+					<PubElem>577</PubElem>
+					<CheckDigit>2</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>528</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				As America descends deeper into polarization and paralysis, social psychologist Jonathan Haidt has done the seemingly impossible -- challenged conventional thinking about morality, politics, and religion in a way that speaks to everyone on the political spectrum. Drawing on his twenty five years of groundbreaking research on moral psychology, he shows how moral judgments arise not from reason but from gut feelings. He shows why liberals, conservatives, and libertarians have such different intuitions about right and wrong, and he shows why each side is actually right about many of its central concerns. In this subtle yet accessible book, Haidt gives you the key to understanding the miracle of human cooperation, as well as the curse of our eternal divisions and conflicts. If you're ready to trade in anger for understanding, read The Righteous Mind.
+			</Synopsis>
+		</Info>
+		<Price>552.49</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>93</ID>
+		<Info>
+			<Title>12 Major World Religions: The Beliefs, Rituals, and Traditions of Humanity's Most Influential Faiths</Title>
+			<Author>
+				<FName>Jason</FName>
+				<MInit/>
+				<LName>Boyett</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Zephyros Press</PublicationHouse>
+				<PublishingDate>2016-08-30</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>62315</RegistrantElem>
+					<PubElem>692</PubElem>
+					<CheckDigit>0</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>302</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				For billions of people, having a religious belief system provides purpose in life. For some, religion serves as a guide for moral behavior. Today's world is one in which our understanding of world religions is both understatedly important, as well as increasingly complex.
+				After many years exploring the foundations of various world religions, Jason Boyett has written this comprehensive, easy-to-understand exploration of the twelve major world religions through a meticulous, yet unbiased lens. 12 Major World Religions offers an impartial look at where each of these belief systems intersects, how they differ, and why some have been?or are currently?misunderstood.
+			</Synopsis>
+		</Info>
+		<Price>719.63</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>94</ID>
+		<Info>
+			<Title>World Religions: The Great Faiths Explored and Explained</Title>
+			<Author>
+				<FName>John</FName>
+				<MInit/>
+				<LName>Bowker</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>DK</PublicationHouse>
+				<PublishingDate>2006-02-20</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>75661</RegistrantElem>
+					<PubElem>772</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>216</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Taking a refreshing new approach toward understanding different faiths, World Religions looks at the beliefs and practices of many different religions, including Christianity, Judaism, Hinduism, Buddhism, Jainism, Sikhism and Islam. Explained through detailed annotation of sacred texts, religious artifacts, paintings, and architecture, this book will engage the whole family.
+			</Synopsis>
+		</Info>
+		<Price>568.68</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>95</ID>
+		<Info>
+			<Title>A Religion of One's Own: A Guide to Creating a Personal Spirituality in a Secular World</Title>
+			<Author>
+				<FName>Thomas</FName>
+				<MInit/>
+				<LName>Moore</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Avery</PublicationHouse>
+				<PublishingDate>2015-01-06</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>59240</RegistrantElem>
+					<PubElem>884</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>288</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Something essential is missing from modern life. Many who've turned away from religious institutions,and others who have lived wholly without religion,hunger for more than what contemporary secular life has to offer but are reluctant to follow organized religion's strict and often inflexible path to spirituality. In A Religion of One's Own, bestselling author and former monk Thomas Moore explores the myriad possibilities of creating a personal spiritual style, either inside or outside formal religion.
+				Two decades ago, Moore's Care of the Soul touched a chord with millions of readers yearning to integrate spirituality into their everyday lives. In A Religion of One's Own, Moore expands on the topics he first explored shortly after leaving the monastery. He recounts the benefits of contemplative living that he learned during his twelve years as a monk but also the more original and imaginative spirituality that he later developed and embraced in his secular life. Here, he shares stories of others who are creating their own path: a former football player now on a spiritual quest with the Pueblo Indians, a friend who makes a meditative practice of floral arrangements, and a well-known classical pianist whose audiences sometimes describe having a mystical experience while listening to her performances. Moore weaves their experiences with the wisdom of philosophers, writers, and artists who have rejected materialism and infused their secular lives with transcendence.
+				At a time when so many feel disillusioned with or detached from organized religion yet long for a way to move beyond an exclusively materialistic, rational lifestyle, A Religion of One's Own points the way to creating an amplified inner life and a world of greater purpose, meaning, and reflection.
+			</Synopsis>
+		</Info>
+		<Price>530.67</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>96</ID>
+		<Info>
+			<Title>New Morning Mercies: A Daily Gospel Devotional</Title>
+			<Author>
+				<FName>Paul David</FName>
+				<MInit/>
+				<LName>Tripp</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Crossway</PublicationHouse>
+				<PublishingDate>2014-10-31</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>43354</RegistrantElem>
+					<PubElem>138</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>384</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Mornings can be tough. Sometimes, a hearty breakfast and strong cup of coffee just aren't enough. Offering more than a rush of caffeine, best-selling author Paul David Tripp wants to energize you with the most potent encouragement imaginable: the gospel.
+				Forget "behavior modification" or feel-good aphorisms. Tripp knows that what we really need is an encounter with the living God. Then we'll be prepared to trust in God's goodness, rely on his grace, and live for his glory each and every day.
+			</Synopsis>
+		</Info>
+		<Price>716.23</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>97</ID>
+		<Info>
+			<Title>Jesus Calling: Enjoying Peace in His Presence</Title>
+			<Author>
+				<FName>Sara</FName>
+				<MInit/>
+				<LName>Young</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Thomas Nelson</PublicationHouse>
+				<PublishingDate>2004-10-10</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>59145</RegistrantElem>
+					<PubElem>188</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>400</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Jesus Calling is a devotional filled with uniquely inspired treasures from heaven for every day of the year.  After many years of writing in her prayer journal, missionary Sarah Young decided to listen to God with pen in hand, writing down whatever she believed He was saying to her.  It was awkward at first, but gradually her journaling changed from monologue to dialogue.  She knew her writings were not inspired as Scripture is, but journaling helped her grow closer to God.  Others were blessed as she shared her writings, until people all over the world were using her messages.  They are written from Jesus' point of view, thus the title Jesus Calling.  It is Sarah's fervent prayer that our Savior may bless readers with His presence and His peace in ever deeper measure.
+			</Synopsis>
+		</Info>
+		<Price>383.91</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>98</ID>
+		<Info>
+			<Title>God Is With You Every Day</Title>
+			<Author>
+				<FName>Max</FName>
+				<MInit/>
+				<LName>Lucado</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Thomas Nelson</PublicationHouse>
+				<PublishingDate>2015-12-21</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>71803</RegistrantElem>
+					<PubElem>463</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>400</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				God Is With You Every Day is a brand-new 365-day devotional from Max Lucado, and his first new devotional since the creation of the Grace for the Moment' line. Max's signature reassuring and encouraging voice, paired with the practical, relevant, and personal message that God is with you every day, makes a great way to start each day of the year.
+				This devotional begins each week with a prayer and scripture, followed by six days of devotions and scripture for reflection. Weaving messages of comfort, grace, and encouragement, this book is wonderful for anyone who wants a fresh infusion of faith to start each day, as well as those walking through difficult seasons of life such as loneliness, grief, or change.
+				You can face each day with courage because God is with you.
+			</Synopsis>
+		</Info>
+		<Price>565.12</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>99</ID>
+		<Info>
+			<Title>Uninvited: Living Loved When You Feel Less Than, Left Out, and Lonely</Title>
+			<Author>
+				<FName>Lysa</FName>
+				<MInit/>
+				<LName>TerKeurst</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Thomas Nelson</PublicationHouse>
+				<PublishingDate>2016-08-09</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>40020</RegistrantElem>
+					<PubElem>587</PubElem>
+					<CheckDigit>5</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>288</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				The enemy wants us to feel rejected . . . left out, lonely, and less than.
+				In Uninvited, Lysa shares her own deeply personal experiences of rejection--from the perceived judgment of the perfectly toned woman one elliptical over to the incredibly painful childhood abandonment by her father. She leans in to honestly examine the roots of rejection, as well as rejection's ability to poison relationships from the inside out, including our relationship with God.
+				With biblical depth, gut-honest vulnerability, and refreshing wit, Lysa will help you:
+				Stop feeling left out by believing that even when you are overlooked by others you are handpicked by God.
+				Change your tendency to either fall apart or control the actions of others by embracing God-honoring ways to process your hurt.
+				Know exactly what to pray for the next ten days to steady your soul and restore your confidence in the midst of rejection.
+				Overcome the two core fears that feed your insecurities by understanding the secret of belonging.
+				Uninvited reminds us we are destined for a love that can never be diminished, tarnished, shaken, or taken--a love that does not reject or uninvite.
+			</Synopsis>
+		</Info>
+		<Price>424.95</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>100</ID>
+		<Info>
+			<Title>The Confident Woman Devotional: 365 Daily Inspirations</Title>
+			<Author>
+				<FName>Joyce</FName>
+				<MInit/>
+				<LName>Meyer</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Faithwords</PublicationHouse>
+				<PublishingDate>2010-11-22</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>44656</RegistrantElem>
+					<PubElem>888</PubElem>
+					<CheckDigit>3</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>384</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Based on her #1 New York Times bestseller, THE CONFIDENT WOMAN, Joyce Meyer taps into the concerns and issues that trouble women most. She provides encouragement and tools to help resolve problems in the areas of life women struggle with most--including confidence, self image, and relationships. It is easy to get caught up in what the coming weeks, months, or years might hold and forget to slow down and live in the present. This powerful daily devotional will help women on their journey towards a confident life filled with love, laughter, and God's acceptance, one day at time.
+			</Synopsis>
+		</Info>
+		<Price>399.34</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>101</ID>
+		<Info>
+			<Title>Holy Bible, King James Version</Title>
+			<Author>
+				<FName>Zondervan</FName>
+				<MInit/>
+				<LName/>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Zondervan</PublicationHouse>
+				<PublishingDate>2010-02-28</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>31094</RegistrantElem>
+					<PubElem>178</PubElem>
+					<CheckDigit>1</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>1760</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				The King James Version from Zondervan is now available in an easily readable pew Bible. Perfect for personal use as well as for use in churches, the King James Version Large Print Pew Bible comes in a sturdy binding at an attractive price point.
+			</Synopsis>
+		</Info>
+		<Price>374.79</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>102</ID>
+		<Info>
+			<Title>The Qur'an (Oxford World's Classics)</Title>
+			<Author>
+				<FName>Muhammad</FName>
+				<MInit>A. S.</MInit>
+				<LName>Abdel-Haleem</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Oxford University Press</PublicationHouse>
+				<PublishingDate>2008-06-15</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>0</RegGroupElem>
+					<RegistrantElem>19953</RegistrantElem>
+					<PubElem>595</PubElem>
+					<CheckDigit>8</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>502</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				One of the most influential books in the history of literature, recognized as the greatest literary masterpiece in Arabic, the Qur'an is the supreme authority and living source of all Islamic teaching, the sacred text that sets out the creed, rituals, ethics, and laws of Islam. Yet despite the growing interest in Islamic teachings and culture, there has never been a truly satisfactory English translation of the Qur'an, until now.
+				This superb new translation of the Qur'an is written in contemporary language that remains faithful to the meaning and spirit of the original, making the text crystal clear while retaining all of this great work's eloquence. The translation is accurate and completely free from the archaisms, incoherence, and alien structures that mar existing translations. Thus, for the first time, English-speaking readers will have a text of the Qur'an which is easy to use and comprehensible. Furthermore, Haleem includes notes that explain geographical, historical, and personal allusions as well as an index in which Qur'anic material is arranged into topics for easy reference. His introduction traces the history of the Qur'an, examines its structure and stylistic features, and considers issues related to militancy, intolerance, and the subjection of women.
+				Clearly written and filled with helpful information and guidance, this brilliant translation of the Qur'an is the best available introduction to the faith of Moslems around the world.
+			</Synopsis>
+		</Info>
+		<Price>324.09</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>103</ID>
+		<Info>
+			<Title>Praise: A Creative Journaling Bible</Title>
+			<Author>
+				<FName>Laura Elizabeth</FName>
+				<MInit/>
+				<LName>Marshall</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Good Books</PublicationHouse>
+				<PublishingDate>2017-01-24</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>68099</RegistrantElem>
+					<PubElem>280</PubElem>
+					<CheckDigit>9</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>1408</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Go deeper in your faith with Praise, a King James Version Bible that encourages quiet moments with God. This Creative Journaling Bible invites you to immerse yourself in His Word as you stop to color and personalize the most moving passages of Scripture. With three hundred elegant illustrations of thought-provoking Bible verses drawn by artist Laura Elizabeth Marshall, you can celebrate the glory of God and reflect on His teachings one artful verse at a time. Fill the lines in the oversized margins with your notes, your prayers, and your questions so that you may experience the Bible in a more personal and meaningful way.
+				This high-quality Journaling Bible is encased in a keepsake-quality, imitation leather cover that's both durable and comfortable to carry. The titling is artfully debossed into the leather for a timeless effect. High-quality paper makes note-taking a joy, while the ribbon page marker helps you find your place every time.
+				Complete, single-column KJV text for easy reading.
+				300 hand-drawn partial or full page black-and-white illustrations of inspiring verses to color.
+				Roomy, lined margins for your reflection and responses to Scripture.
+			</Synopsis>
+		</Info>
+		<Price>1126.00</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>104</ID>
+		<Info>
+			<Title>Life Application Study Bible NLT, Personal Size</Title>
+			<Author>
+				<FName>Tyndale</FName>
+				<MInit/>
+				<LName>-</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Tyndale House Publishers, Inc.</PublicationHouse>
+				<PublishingDate>2005-04-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>1</RegGroupElem>
+					<RegistrantElem>41430</RegistrantElem>
+					<PubElem>258</PubElem>
+					<CheckDigit>4</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>2448</PageCount>
+			<MediaType>Hardcover</MediaType>
+			<Synopsis>
+				Today's best-selling study Bible?the Life Application Study Bible?has been updated and expanded. Over 300 new Life Application notes, nearly 350 note revisions, 16 new personality profiles, updated charts, and a Christian Worker's Resource make today's number one selling study Bible even better.
+				FEATURES:
+				Over 300 new Life Application notes and significant revisions to nearly 350 others
+				16 new Personality Profiles
+				Most charts revised to clarify meaning and importance, plus eight all-new charts
+				New information on the intertestamental period
+				Christian Worker's Resource, a special supplement to enhance the reader's ministry effectiveness, includes: How to Become a Believer, How to Follow Up with a New Believer, Mining the Treasures of the Life Application Study Bible, So You've Been Asked to Speak, and Taking the Step to Application
+			</Synopsis>
+		</Info>
+		<Price>1267.66</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+
+	<Book Category="Religion">
+	    <ID>105</ID>
+		<Info>
+			<Title>Complete Jewish Bible: An English Version of the Tanakh (Old Testament) and B'Rit Hadashah (New Testament)</Title>
+			<Author>
+				<FName>David</FName>
+				<MInit>H</MInit>
+				<LName>Stern</LName>
+			</Author>
+			<PublicationDetails>
+				<PublicationHouse>Lederer Messianic Publications</PublicationHouse>
+				<PublishingDate>1998-06-01</PublishingDate>
+				<ISBN>
+					<PrefixElem>978</PrefixElem>
+					<RegGroupElem>9</RegGroupElem>
+					<RegistrantElem>65359</RegistrantElem>
+					<PubElem>018</PubElem>
+					<CheckDigit>2</CheckDigit>
+				</ISBN>
+			</PublicationDetails>
+			<PageCount>1697</PageCount>
+			<MediaType>Paperback</MediaType>
+			<Synopsis>
+				Why is this Bible different from all other Bibles? Because it is the only English version fully Jewish in style and presentation. It includes Dr. Stern's new version of the "Tanakh" ("Old Testament") and his highly acclaimed "Jewish New Testament."
+				The Complete Jewish Bible:
+				follows the Hebrew Bible order of the Tanakh's books, the order with which Yeshua (Jesus) was familiar
+				makes no separation between "Old" and "New" Testaments
+				corrects misinterpretations in the New Testament resulting from anti-Jewish theological bias~offers the original Hebrew names for people, places, and concepts, using easy-to-read English transliterations
+				focuses on Messianic prophecy
+				gives the traditional weekly and holiday synagogue readings, plus relevant readings from the "B'rit Hadashah" (New Testament)~The Complete Jewish Bible:
+				reconnects Christians with their Jewish roots and the Jewish people
+				connects Jews with the Jewishness of Messiah Yeshua and Messianic faith
+				Other features of this Bible: a comprehensive introduction, a pronouncing explanatory glossary, a reverse glossary, and special maps to aid Bible understanding.
+			</Synopsis>
+		</Info>
+		<Price>1502.60</Price>
+		<AverageVotes>0</AverageVotes>
+	</Book>
+</BookStore>

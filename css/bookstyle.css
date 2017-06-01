@@ -1,0 +1,15 @@
+.BookInfo{
+	border: 1px solid red;
+	margin-top: 45px;
+	width: 70%;
+}
+
+.Cover{
+	width: 250px;
+	height: 377px;
+}
+
+h1{
+	font-family: "Roboto Slab", sans-serif;
+	font-size: 20px;
+}

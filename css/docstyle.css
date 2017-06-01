@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass:400,900i');
+
+html,body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+.container{
+	min-height: 100%;
+	position: relative;
+}
+
+.footer{
+	display: block;
+	position: absolute;
+  	width: 100%;
+	background-color: #1B3D3D;
+	height: 80px;
+	bottom: 0;
+	left: 0;
+}
+
+.footer .footerContent{
+	padding: 0;
+}
+
+.footerTitle{
+	position: relative;
+	font-family: 'Overpass', sans-serif;
+	font-size: 28px; 
+	top: -10px;	
+	color: #FFD300;
+	margin-left: 50%;
+}
+
+.text{
+	position: relative;
+	padding-top: 45px;
+	padding-bottom:80px;
+}
+
+.text p{
+    font-size: 58px;
+    font-family: 'Roboto Slab', sans-serif;
+    color: #000;
+}
+
+/*.Reviews{
+	border: 1px solid red;
+	width: 50%;
+}*/
+
+.Review{
+	float: right;
+	border: 1px solid red;
+	width: 50%;
+}

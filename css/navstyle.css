@@ -1,0 +1,427 @@
+@import url('https://fonts.googleapis.com/css?family=Lilita+One|Jockey+One|Roboto+Slab|Roboto|Raleway:400, 700');
+
+.banner{
+    position: relative;
+    background-color: #1B3D3D;
+    background-image: url("/Shelf/assets/images/Books.png");
+    background-size: cover;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    z-index: 1;
+}
+
+.banner .logo{
+    margin-top: 12px;
+    left: 5%;
+    height: 75px;
+    width: 375px;
+}
+
+.banner h1{
+    display: none;
+    float: right;
+    margin-top: 30px;
+    margin-right: 10px;
+    font-family: "Raleway", sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.topnav {
+    background-color: #247A7A;
+    position: absolute;
+    left: 0;
+    top: 100px;
+    width: 100%;
+    height: 45px;
+    z-index: 1;
+}
+
+.topnav a {
+    background: #247A7A;
+    height: 20%;
+    color: white;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: "Raleway", sans-serif;
+    transition: color, 0.3s, ease;
+}
+
+.topnav a:hover:not(.active){
+    color: #CCB33B;
+}
+
+.topnav a.icon{
+    position: absolute;
+    color: white;
+    right: 0;
+}
+
+.topnav a.active{
+    color: #FFD300;
+    display: block!important;
+}
+
+.navbar-fixed {
+    top: 0;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+#Logo{
+    max-width: 70px;
+    max-height: 70px;
+}
+
+#LogoAtNav{
+    margin-top: -10.5px;
+    max-width: 35px;
+    max-height: 35px;
+}
+
+.topnav a:not(.icon){
+    display: none;
+}
+
+.topnav > a.icon{
+    float-right;
+    display: block;
+}
+
+.topnav.navbar-fixed.responsive, .topnav.responsive{
+    width: 100%;
+    position: fixed;
+}
+
+.topnav.responsive{
+    width: 100%;
+    position: absolute;
+}
+
+.topnav.responsive a.NavLogo, .topnav.navbar-fixed.responsive a .NavLogo{
+    display: none;
+}
+
+
+.topnav.responsive a {
+    float: none;
+    display: block;
+}
+
+.topnav.responsive a.icon {
+    position: absolute;
+    top: 0;
+    display: block;
+    text-align: right;
+}
+
+@media screen and (min-width: 720px) {
+    .topnav{
+        width: 100%;
+    }
+
+    .topnav a{
+        display: block;
+    }
+
+    .topnav a.icon{
+        display: none;
+    }
+
+    .topnav a:not(.icon){
+        display: block;
+    }
+
+    .topnav a.active{
+        margin-left: none;
+        margin-right: none;
+    }
+    .SearchModal{
+        width: 400px!important;
+    }
+    .ResultContent{
+        margin-top: 10px;
+    }
+    .searchModal .modalContent input[type='text']{
+        font-size: 11px;
+    }
+    .Title{
+        font-size: 15px;
+    }
+    .banner h1{
+        display: block;
+    }
+}
+
+@keyframes modalEntry{
+    from {
+        opacity: 0;
+        transform: translate(0, 5000px);
+    }
+
+    to {
+        opacity: 1; 
+        transform: translate(0, 0);
+    }
+}
+
+.addToCartModal{
+    display: none;
+    position: fixed;
+    z-index: 12;
+    left: 0; 
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.addToCartModal > .acModalContent{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20%;
+    width: 40%;
+    padding: 7px;
+    padding-right: 0px;
+    padding-bottom: 7px;
+    background-color: #247A7A;
+    animation: modalEntry 0.7s ease;
+}
+
+.addToShelvesModal{
+    display: none;
+    position: fixed;
+    z-index: 12;
+    left: 0; 
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.addToShelvesModal > .asModalContent{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20%;
+    width: 40%;
+    padding: 7px;
+    padding-right: 0px;
+    padding-bottom: 7px;
+    background-color: #247A7A;
+    animation: modalEntry 0.7s ease;
+}
+
+.addToShelvesModal .asModalContent h1, .acModalContent h1{
+    font-size: 20px;
+    color: #FFD300;
+    font-family: 'Raleway', sans-serif
+}
+
+.addToShelvesModal .asModalContent h2, .acModalContent h1{
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Roboto Slab', sans-serif
+}
+
+.searchModal{
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left: 0; 
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.searchModal .modalContent{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20%;
+    width: 40%;
+    padding: 5px;
+    padding-right: 0px;
+    padding-bottom: 7px;
+    background-color: #247A7A;
+    animation: modalEntry 0.7s ease;
+}
+
+.searchModal .modalContent h1{
+    font-size: 20px;
+    color: #FFD300;
+    font-family: 'Raleway', sans-serif
+}
+
+.searchModal .modalContent input[type='text']{
+    position: relative;
+    background-image: url("/Shelf/assets/images/book-icon.png");
+    background-size: 25px;
+    background-position: 3px 4px;
+    background-repeat: no-repeat;
+    border: 0px;
+    border-radius: 20px;
+    outline: none;
+    width: 80%;
+    height: 35px;
+    margin-top: -3px;
+    padding-left: 35px;
+    font-size: 18px;
+}
+
+.addToShelvesModal .asModalContent input[type="text"]{
+    position: relative;
+    border: 0px;
+    border-radius: 20px;
+    outline: none;
+    width: 50%;
+    height: 30px;
+    margin-top: -3px;
+    padding-left: 10px;
+    font-size: 16px;   
+}
+
+.addToShelvesModal .asModalContent input[type="submit"]{
+    border: 0px solid;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #CCB33B;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 30px;
+    padding-bottom: auto;
+    text-decoration: none;  
+    margin-right: auto;
+    margin-top: 15px; 
+    margin-bottom: 5px;
+    cursor: pointer;
+    transition: background-color 0.1s ease-in;
+}
+
+.addToShelvesModal .asModalContent input[type="submit"]:hover{
+    background-color: #665C2E;
+}
+
+#searchModalClose{
+    float: right;
+    font-size: 30px;
+    margin-right: 5px;
+    font-weight: bolder;
+    color: #111616;
+    cursor: pointer;
+    transition: color, 0.2s, ease;
+}
+
+#asModalClose, #acModalClose{
+    float: right;
+    font-size: 30px;
+    margin-right: 5px;
+    font-weight: bolder;
+    color: #111616;
+    cursor: pointer;
+    transition: color, 0.2s, ease;
+}
+
+.ShelfName{
+    width: 100%;
+    min-height: 30px;
+    margin-top: 3px; 
+    cursor: pointer;
+    padding: 3px;
+    padding-right: -7px;
+    margin-left: -7px;
+}
+
+.ShelfName:hover{
+    background-color: #1B3D3D;
+}
+
+.ShelfName p{
+    color: #ffffff;
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+#searchModalClose:hover, #asModalClose:hover{
+    color: #ffffff;
+}
+
+.Result{
+    width: 100%;
+    min-height: 200px;
+    background-color: #1B3D3D;
+}
+
+.ResultContent, .ResultContent1{
+    width: 100%;
+    min-height: 85px;
+    margin-top: 3px; 
+    padding: 3px;
+    padding-right: -7px;
+    margin-left: -5px;
+}
+
+.ResultContent1{
+    min-height: 30px;
+}
+
+
+.ResultContent:hover, .ResultContent1:hover{
+    background-color: #1B3D3D;
+}
+
+.Title{
+    position: relative;
+    left: 7px;
+    box-sizing: border-box;
+}
+
+.Title a, .ResultContent1 .Text{
+    text-decoration: none;
+    text-align: left;
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 550;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.ResultContent1 .Text{
+    text-align: center;
+}
+
+.ResultContent1 .Text a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.BookCoverSearch{
+    float: left;
+    width: 50px;
+    height: 82px;
+    border: 0px;
+}
+
+.AuthorFromSearch, .ISBNFromSearch{
+    text-align: right;
+    margin-top: 3px;
+    margin-left: 7px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}

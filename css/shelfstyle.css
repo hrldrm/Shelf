@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Lilita+One|Jockey+One|Roboto+Slab|Roboto|Raleway:400, 700');
+
+#shelves{
+	width: 70%;
+	position: absolute;
+	margin-top: 50px;
+	padding-left: 5px;
+}
+
+#shelves h1{
+	font-family: "Roboto Slab", sans-serif;
+	color: #CCB33B;
+}
+
+.BookCover{
+	margin-top: 5px;
+	position: relative;
+	width: 100%;
+	max-height: 271px;
+	cursor: pointer;
+}
+
+.BookCover:hover{
+	background-color: #f0f0f0;
+}
+
+.BookCover #Title{
+	font-family: "Raleway", sans-serif;
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 140px;
+	font-size: 16px;
+	color: #247A7A;
+	font-weight: bold;
+	overflow-x: hidden;
+}
+
+.BookCover #Author{
+	font-family: "Roboto", sans-serif;
+	position: absolute;
+	color: black;
+	margin-left: 150px;
+	margin-top: 35px;
+	font-size: 14px;
+}
+
+
+.BookCover img{
+	width: 120px;
+	height: 175px;
+}
+
+#deleteShelfBook{
+    float: right;
+    font-size: 25px;
+    margin-right: 5px;
+    font-weight: bolder;
+    color: #111616;
+    cursor: pointer;
+    transition: color, 0.2s, ease;
+}
+
+#deleteShelfBook:hover{
+	color: #51253E;
+}
