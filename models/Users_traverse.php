@@ -12,6 +12,7 @@
 			$Email = $xmlDoc->createElement("Email", $data['Email']);
 			$VerifiedEmail = $xmlDoc->createElement("VerifiedEmail", "false");
 			$Password = $xmlDoc->createElement("EncryptedPass", $data['Password']);
+			$Hash = $xmlDoc->createElement("Hash", $data['Hash']);
 			$Shelves = $xmlDoc->createElement("Shelves");
 			$Cart = $xmlDoc->createElement("Cart");
 			$Rated = $xmlDoc->createElement("RatedBooks");
@@ -20,6 +21,7 @@
 			$Info->appendChild($LastName);
 			$Info->appendChild($Email);
 			$Info->appendChild($VerifiedEmail);
+			$Info->appendChild($Hash);
 			$Info->appendChild($Password);
 			$Info->appendChild($Shelves);
 			$Info->appendChild($Cart);
@@ -81,9 +83,11 @@
 					$FName = $Info->childNodes->item($j)->nodeValue;
 				}else if($Info->childNodes->item($j)->nodeName == "UserID"){
 					$UserID = $Info->childNodes->item($j)->nodeValue;
+				}else if($Info->childNodes->item($j)->nodeName == "Hash"){
+					$Hash = $Info->childNodes->item($j)->nodeValue;
 				}
 			}
-			$data = array('NodeNumber' => $NodeNumber, 'UserID' => $UserID, 'FName' => $FName);
+			$data = array('NodeNumber' => $NodeNumber, 'UserID' => $UserID, 'FName' => $FName, 'Hash' => $Hash);
 			return $data;
 		}
 
@@ -120,12 +124,41 @@
 			}
 			return false;
 		}
+		
+		public function getUserHash($UserID){
+			$xmlDoc = new DOMDocument();
+			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
+			$x = $xmlDoc->getElementsByTagName("User");
+			$NodeNumber = $this->getNodeNumberUsingID($UserID);
+			$Info = $x->item($NodeNumber)->getElementsByTagName('Info')[0];
+			for($j = 0; $j < ($Info->childNodes->length); $j++){
+				if($Info->childNodes->item($j)->nodeName == "Hash"){	
+					 return $Info->childNodes->item($j)->nodeValue;	
+				}
+			}
+		}
+		
+		public function changeVerifyStatus($UserID){
+			$xmlDoc = new DOMDocument();
+			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
+			$x = $xmlDoc->getElementsByTagName("User");
+			$NodeNumber = $this->getNodeNumberUsingID($UserID);
+			$Info = $x->item($NodeNumber)->getElementsByTagName('Info')[0];
+			for($j = 0; $j < ($Info->childNodes->length); $j++){
+				if($Info->childNodes->item($j)->nodeName == "VerifiedEmail"){	
+					 //return $Info->childNodes->item($j)->nodeValue;
+					 $Info->childNodes->item($j)->nodeValue = 'true';
+					 $xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');	
+				}
+			}
+		}
 
 		public function getUserName($UserID){
 			$xmlDoc = new DOMDocument();
 			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
 			$x = $xmlDoc->getElementsByTagName("User");
-			$NodeNumber = $this->getNodeNumberUsingID($this->session->userdata('UserID'));
+			$NodeNumber = $this->getNodeNumberUsingID($UserID);
+			$UserName = "";
 			$Info = $x->item($NodeNumber)->getElementsByTagName('Info')[0];
 			for($j = 0; $j < ($Info->childNodes->length); $j++){
 				if($Info->childNodes->item($j)->nodeName == "FirstName"){	
@@ -297,35 +330,10 @@
 			$Cart->appendChild($BookIDNode);
 			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');	
 		}
-
-		public function deleteItemFromCart($BookID){
-			$xmlDoc = new DOMDocument();
-			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
-			$x = $xmlDoc->getElementsByTagName("User");
-			$NodeNumber = $this->getNodeNumberUsingID($this->session->userdata('UserID'));
-			$Cart = $x->item($NodeNumber)->getElementsByTagName('Cart')[0];
-			for($i = 0; $i < $Cart->childNodes->length; $i){
-				if($Cart->childNodes->item($i)->nodeName = "BookID"){
-					if($BookID == $Cart->childNodes->item($i)->nodeValue){
-						$Cart->removeChild($Cart->childNodes->item($i));
-					}
-				}
-			}
-			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
-		}
-
-		public function clearCart($UserID){
-			$xmlDoc = new DOMDocument();
-			$xmlDoc->load($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');
-			$x = $xmlDoc->getElementsByTagName("User");
-			$NodeNumber = $this->getNodeNumberUsingID($UserID);
-			$Cart = $x->item($NodeNumber)->getElementsByTagName('Cart')[0];
-			while($Cart->childNodes->length > 0){
-				// if($Cart->childNodes->item($i)->nodeName == "BookID"){
-					$Cart->removeChild($Cart->firstChild);
-				// }
-			}
-			$xmlDoc->save($_SERVER['DOCUMENT_ROOT'] . '/Shelf/data/Users.xml');		
+		
+		public function decode_password($password){
+			$this->load->library('encrypt');
+			return $this->encrypt->decode($password);
 		}
 
 		public function verifyPassword($UserNumber, $password){
@@ -335,7 +343,7 @@
 			$Info = $x->item($UserNumber)->getElementsByTagName('Info')[0];
 			for($i = 0; $i < ($Info->childNodes->length); $i++) {
 				if($Info->childNodes->item($i)->nodeName == "EncryptedPass"){
-					if($password == $Info->childNodes->item($i)->nodeValue){
+					if($password == $this->decode_password($Info->childNodes->item($i)->nodeValue)){
 					//if(password_verify($password, $Info->childNodes->item($i)->nodeValue)){
 						return true;
 					}else{
