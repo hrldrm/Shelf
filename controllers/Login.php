@@ -49,6 +49,11 @@
 			$this->session->sess_destroy();
 			redirect('', "refresh");
 		}
+		
+		public function encrypt_password($password){
+			$this->load->library('encrypt');
+			return $this->encrypt->encode($password);
+		}
 
 		public function register_user(){
 			//https://www.codexworld.com/codeigniter-user-registration-login-system/
@@ -61,13 +66,21 @@
 					'FName' => strip_tags($this->input->post("FName")),
 					'LName' => strip_tags($this->input->post("LName")),
 					//'Password' => password_hash($this->input->post("Password"), PASSWORD_DEFAULT)
-					'Password' => $this->input->post("Password")
+					'Password' => $this->encrypt_password($this->input->post("Password")),
+					'Hash' => md5(rand(0, 1000))
 				);
 				$result = $this->users->addUser($data);
 				$params = array();
 				$params = $this->users->getUserInfoFromEmail($data['Email']);
-				$path = 'email/send_verification/' . $params['NodeNumber'] . '/' . $params['UserID'] . '/' .$params['FName'];
+				$path = 'email/send_verification/' . $params['NodeNumber'] . '/' . $params['UserID'] . '/' .$params['FName'] . '/' .$params['Hash'];
 				redirect($path, "refresh");
+			}
+		}
+		
+		public function verify($userID, $hash){
+			if($this->users->getUserHash($userID) == $hash){
+				$this->users->changeVerifyStatus($userID);
+				redirect('home');
 			}
 		}
 
