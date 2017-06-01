@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Users xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ShelfSchema.xsd">
-<User><Info><UserID>5930029fefdce</UserID><FirstName>Harold</FirstName><LastName>Mansilla</LastName><Email>hrmansilla08@gmail.com</Email><VerifiedEmail>false</VerifiedEmail><EncryptedPass>Harold1234</EncryptedPass><Shelves><Shelf><ShelfName>Sci-Fi Stuff</ShelfName><BookID>2</BookID></Shelf></Shelves><Cart><BookID>2</BookID><BookID>7</BookID></Cart><RatedBooks></RatedBooks></Info></User></Users>
+<User><Info><UserID>59303167bd192</UserID><FirstName>Virgilio</FirstName><LastName>Mendoza</LastName><Email>virgiliomendoza05@gmail.com</Email><VerifiedEmail>true</VerifiedEmail><Hash>109a0ca3bc27f3e96597370d5c8cf03d</Hash><EncryptedPass>+Q6W0gD7cAd3HFritqzf3nDmWZkEnRyjtu81lnAXtk/2mbebbINi7Y1Q+ycbH57PqrGoMcX1t8YWhOkLNXUIWg==</EncryptedPass><Shelves/><Cart/><RatedBooks/></Info></User></Users>
